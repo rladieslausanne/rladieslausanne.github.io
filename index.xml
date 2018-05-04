@@ -6,17 +6,17 @@
     <description>Recent content in Home on R-Ladies Lausanne</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Want to write a blogpost?</title>
-      <link>/post/2018/05/02/want-to-write-a-blogpost/</link>
-      <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
+      <link>/post/2018/05/04/want-to-write-a-blogpost/</link>
+      <pubDate>Fri, 04 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/2018/05/02/want-to-write-a-blogpost/</guid>
+      <guid>/post/2018/05/04/want-to-write-a-blogpost/</guid>
       <description>sdfsdf</description>
     </item>
     
@@ -40,35 +40,20 @@
     </item>
     
     <item>
-      <title>A Plain Markdown Post</title>
-      <link>/post/2016/02/14/a-plain-markdown-post/</link>
-      <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
+      <title>About R-Ladies &amp; R-Ladies Lausanne</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/post/2016/02/14/a-plain-markdown-post/</guid>
-      <description>This sample post is mainly for blogdown users. If you do not use blogdown, you can skip the first section.
-1. Markdown or R Markdown This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:
- You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc.</description>
-    </item>
-    
-    <item>
-      <title>Hello R Markdown</title>
-      <link>/post/2015/07/23/hello-r-markdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/post/2015/07/23/hello-r-markdown/</guid>
-      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
-    </item>
-    
-    <item>
-      <title>Lorem Ipsum</title>
-      <link>/post/2015/07/23/lorem-ipsum/</link>
-      <pubDate>Thu, 23 Jul 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2015/07/23/lorem-ipsum/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-Quisque mattis volutpat lorem vitae feugiat.</description>
+      <guid>/about/</guid>
+      <description>sdfsdf 
+
+
+R-Ladies is a world-wide organization to promote gender diversity in the R community.
+R-Ladies Global Check here.
+Chapters In the meantime there are plenty of chapters around the world, listed here.
+ Find material on other chapters meetups on github repository (search for meetup-presentations_TOWN).  R-Ladies Lausanne The chapter in Lauanne was founded in November 2017.
+We are currently four organisers:
+ Andrea Komljenovic Ninon Mounier Sarvenaz Choobdar Sina R&amp;uuml;eger  Contact You can contact us via lausanne@rladies.</description>
     </item>
     
     <item>
@@ -89,29 +74,14 @@ Code of Conduct We follow the Code of Conduct and encourage participants to read
     </item>
     
     <item>
-      <title>About R-Ladies and R-Ladies Lausanne</title>
-      <link>/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>R-Ladies Global Check here.
-R-Ladies Lausanne Founded in November 2017.
-Speakers R-Ladies lives through its participants. We ALWAYS need speakers for meetups! Please get in touch with us at lausanne@rladies.org.
-Further information Organisers are: Andrea Komljenovic, Ninon Mounier, Sarvenaz Choobdar and Sina R&amp;uuml;eger.
-You can contact us via lausanne@rladies.org.
-Checkout our Meetup page.
-Follow us on Twitter or Facebook.
-Or subscribe to our Newsletter.
-Code of Conduct We follow the Code of Conduct and encourage participants to read Rules &amp;amp; Guidelines of R-Ladies.</description>
-    </item>
-    
-    <item>
-      <title>About R-Ladies and R-Ladies Lausanne</title>
+      <title>Community</title>
       <link>/community/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/community/</guid>
-      <description> Speak Sponsor Mentor bring R problem  </description>
+      <description> Come to our meetups! Bring R-Problem, listen. Suggest speakers
+Speakers As we always need R speakers for meetups, please get in touch with us at lausanne at rladies.org.
+Mentor or Sponsor </description>
     </item>
     
     <item>
@@ -120,11 +90,9 @@ Code of Conduct We follow the Code of Conduct and encourage participants to read
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/events/</guid>
-      <description> We have a mix
-If you would like to speak at a meetup or have an idea for an event :arrowright: email us
-Bring your R-Problem
-Upcoming Events June 7 2018: shorter, mixed talks
-Past events    Date Time Topic Type Place Slides     1-Feb-2018 6 pm Meet &amp;amp; Greet &amp;amp; 5min-talks Kickoff @Anthropole Intro to R-Ladies + ggarrange   14-March-2018 6 pm Shiny Introduction UNIL-Genopode Auditorium A Presentation + Examples   13-April-2018 noon R and Bayesian Statistics by Elizaveta Semenova (TPH Basel) Tutorial Swisscom Digital Lab @ EPFL All material    </description>
+      <description>We have a meetup roughly every second month.
+The content of our meetups varies:
+ A mix of short talks of 5-20 minutes on a range of topics. For example: Favourite R packages, Applications for which you use R, The best way to learn R. This is an excellent opportunity for everyone to present what they are passionate about. How-tos/Tutorials of R-packages and applications. Are you an experienced in an R-related-topic that you would like to share and others to learn?</description>
     </item>
     
   </channel>
