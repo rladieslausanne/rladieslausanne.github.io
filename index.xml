@@ -73,6 +73,23 @@ Quisque mattis volutpat lorem vitae feugiat.</description>
     
     <item>
       <title>About R-Ladies and R-Ladies Lausanne</title>
+      <link>/about-copy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about-copy/</guid>
+      <description>R-Ladies Global Check here.
+R-Ladies Lausanne Founded in November 2017.
+Speakers R-Ladies lives through its participants. We ALWAYS need speakers for meetups! Please get in touch with us at lausanne@rladies.org.
+Further information Organisers are: Andrea Komljenovic, Ninon Mounier, Sarvenaz Choobdar and Sina R&amp;uuml;eger.
+You can contact us via lausanne@rladies.org.
+Checkout our Meetup page.
+Follow us on Twitter or Facebook.
+Or subscribe to our Newsletter.
+Code of Conduct We follow the Code of Conduct and encourage participants to read Rules &amp;amp; Guidelines of R-Ladies.</description>
+    </item>
+    
+    <item>
+      <title>About R-Ladies and R-Ladies Lausanne</title>
       <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -89,12 +106,24 @@ Code of Conduct We follow the Code of Conduct and encourage participants to read
     </item>
     
     <item>
+      <title>About R-Ladies and R-Ladies Lausanne</title>
+      <link>/community/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/community/</guid>
+      <description> Speak Sponsor Mentor bring R problem  </description>
+    </item>
+    
+    <item>
       <title>Events</title>
       <link>/events/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/events/</guid>
-      <description> Upcoming Events June 7 2018: shorter, mixed talks
+      <description> We have a mix
+If you would like to speak at a meetup or have an idea for an event :arrowright: email us
+Bring your R-Problem
+Upcoming Events June 7 2018: shorter, mixed talks
 Past events    Date Time Topic Type Place Slides     1-Feb-2018 6 pm Meet &amp;amp; Greet &amp;amp; 5min-talks Kickoff @Anthropole Intro to R-Ladies + ggarrange   14-March-2018 6 pm Shiny Introduction UNIL-Genopode Auditorium A Presentation + Examples   13-April-2018 noon R and Bayesian Statistics by Elizaveta Semenova (TPH Basel) Tutorial Swisscom Digital Lab @ EPFL All material    </description>
     </item>
     
