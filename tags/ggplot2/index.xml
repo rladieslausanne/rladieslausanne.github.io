@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ggplot2 on R-Ladies Lausanne</title>
+    <link>/tags/ggplot2/</link>
+    <description>Recent content in Ggplot2 on R-Ladies Lausanne</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Feb 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/ggplot2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Meetup #1: Kickoff</title>
+      <link>/post/2018/02/01/meetup-1-kickoff/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018/02/01/meetup-1-kickoff/</guid>
+      <description>DSC02007 DSC02010  Picture with all participants and organisers from our first meetup in February 2018.</description>
+    </item>
+    
+  </channel>
+</rss>

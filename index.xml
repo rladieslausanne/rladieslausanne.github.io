@@ -6,10 +6,22 @@
     <description>Recent content in Home on R-Ladies Lausanne</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>R-Ladies Lausanne has a Webpage!</title>
+      <link>/post/2018/05/05/r-ladies-lausanne-has-a-webpage/</link>
+      <pubDate>Sat, 05 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018/05/05/r-ladies-lausanne-has-a-webpage/</guid>
+      <description>Blogdown + some &amp;hellip;
+Sourcecode here
+Heavily based on R-Ladies Sydney
+Why? Allowing people that cannot attend our meetups to be part of it too.</description>
+    </item>
     
     <item>
       <title>Want to write a blogpost?</title>
@@ -17,7 +29,34 @@
       <pubDate>Fri, 04 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/2018/05/04/want-to-write-a-blogpost/</guid>
-      <description>sdfsdf</description>
+      <description>https://rladiessydney.org/posts/contribute-a-post/</description>
+    </item>
+    
+    <item>
+      <title>Meetup #3: Bayesian statistics with R</title>
+      <link>/post/2018/04/13/meetup-3-bayesian-statistics-with-r/</link>
+      <pubDate>Fri, 13 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018/04/13/meetup-3-bayesian-statistics-with-r/</guid>
+      <description> Picture with all participants and organisers from our first meetup in February 2018.  </description>
+    </item>
+    
+    <item>
+      <title>Meetup #2: Shiny Tutorial</title>
+      <link>/post/2018/03/14/meetup-2-shiny-tutorial/</link>
+      <pubDate>Wed, 14 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018/03/14/meetup-2-shiny-tutorial/</guid>
+      <description>DSC02086  Picture with all participants and organisers from our first meetup in February 2018.</description>
+    </item>
+    
+    <item>
+      <title>Meetup #1: Kickoff</title>
+      <link>/post/2018/02/01/meetup-1-kickoff/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018/02/01/meetup-1-kickoff/</guid>
+      <description>DSC02007 DSC02010  Picture with all participants and organisers from our first meetup in February 2018.</description>
     </item>
     
     <item>
@@ -46,13 +85,10 @@
       
       <guid>/about/</guid>
       <description>R-Ladies is a world-wide organization to promote gender diversity in the R community.
-R-Ladies Global Check here.
-Chapters There are plenty of chapters around the world, listed here.
-Find material on other chapters meetups on github repository (search for meetup-presentations_TOWN).
-Remote R-Ladies Remote
-R-Ladies Lausanne The chapter in Lauanne was founded in November 2017.
-We are currently four organisers:
- Andrea Komljenovic  Ninon Mounier  Sarvenaz Choobdar  Sina R&amp;uuml;eger   Contact You can contact us via lausanne@rladies.</description>
+R-Ladies Global The mission of R-Ladies is to achieve proportionate representation of genders currently underrepresented in the R community by encouraging, inspiring, and empowering them.
+R-Ladies Global provides support to local (and remote) chapters that exist around the world.
+Chapters Chapters are somewhat similar to R-user groups.
+There are plenty of chapters around the world, listed here.</description>
     </item>
     
     <item>
@@ -61,9 +97,9 @@ We are currently four organisers:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/community/</guid>
-      <description> Come to our meetups! Bring R-Problem, listen. Suggest speakers
+      <description>Come to our meetups! Bring R-Problem, listen. Suggest speakers
 Speakers As we always need R speakers for meetups, please get in touch with us at lausanne at rladies.org.
-Mentor or Sponsor </description>
+Mentor or Sponsor Sponsorship</description>
     </item>
     
     <item>

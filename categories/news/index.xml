@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on R-Ladies Lausanne</title>
-    <link>/post/</link>
-    <description>Recent content in Posts on R-Ladies Lausanne</description>
+    <title>News on R-Ladies Lausanne</title>
+    <link>/categories/news/</link>
+    <description>Recent content in News on R-Ladies Lausanne</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 05 May 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/news/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -21,15 +21,6 @@
 Sourcecode here
 Heavily based on R-Ladies Sydney
 Why? Allowing people that cannot attend our meetups to be part of it too.</description>
-    </item>
-    
-    <item>
-      <title>Want to write a blogpost?</title>
-      <link>/post/2018/05/04/want-to-write-a-blogpost/</link>
-      <pubDate>Fri, 04 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018/05/04/want-to-write-a-blogpost/</guid>
-      <description>https://rladiessydney.org/posts/contribute-a-post/</description>
     </item>
     
     <item>
