@@ -1,7 +1,7 @@
 ---
 title: Summary Meetup #3
 author: 'your name'
-date: 'YYYY-MM-DD'
+date: '2018-05-09'
 slug: summary-meetup-3
 categories: ["meetup"]
 tags: ["add some tags like","R"]
