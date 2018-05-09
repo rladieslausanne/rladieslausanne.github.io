@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogpost on R-Ladies Lausanne</title>
+    <link>/categories/blogpost/</link>
+    <description>Recent content in Blogpost on R-Ladies Lausanne</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/categories/blogpost/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Title of your Blogpost</title>
+      <link>/post/1/01/01/title-of-your-blogpost/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/1/01/01/title-of-your-blogpost/</guid>
+      <description> Main title </description>
+    </item>
+    
+  </channel>
+</rss>

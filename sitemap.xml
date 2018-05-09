@@ -7,6 +7,11 @@
   </url>
   
   <url>
+    <loc>/tags/add-some-tags-like/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
     <priority>0</priority>
   </url>
@@ -21,6 +26,25 @@
   
   <url>
     <loc>/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/meetup/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/r/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/1/01/01/summary-meetup-3/</loc>
   </url>
   
   <url>
