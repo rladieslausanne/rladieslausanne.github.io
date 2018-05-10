@@ -6,23 +6,21 @@
     <description>Recent content in Posts on R-Ladies Lausanne</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>R-Ladies Lausanne has a Webpage!</title>
-      <link>/post/2018/05/05/r-ladies-lausanne-has-a-webpage/</link>
-      <pubDate>Sat, 05 May 2018 00:00:00 +0000</pubDate>
+      <title>News-May-2018</title>
+      <link>/post/2018/05/10/r-ladies-lausanne-has-a-webpage/</link>
+      <pubDate>Thu, 10 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/2018/05/05/r-ladies-lausanne-has-a-webpage/</guid>
-      <description>Blogdown + some css hacks.
-Sourcecode here
-Heavily based on R-Ladies Sydney
-Why? Allowing people that cannot attend our meetups to be part of it too.
-Click on subscribe to enable the RSS feed for this site.
-Contribute to our webpage The goal of this webpage is, to keep people informed about our meetups under news &amp;amp; blogposts, by posting news, summaries from past meetups, interviews of our speakers and list blogposts.</description>
+      <guid>/post/2018/05/10/r-ladies-lausanne-has-a-webpage/</guid>
+      <description>Meetup #4 on June 7 @ ImpactHub We will have our fourth meetup on June 7, 2018, 6:30 pm at ImpactHub.
+During one hour we will have four speakers talking about four topics, each presentation will be 10-20 min long.
+You can register to attend and &amp;hellip; we are still looking for two more speakers! So get in touch with us!
+ R-Ladies Lausanne has a Webpage! Click on subscribe to enable the RSS feed for this site.</description>
     </item>
     
   </channel>
