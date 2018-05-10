@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Biostatistics</title>
+      <link>/tags/biostatistics/</link>
+      <pubDate>Thu, 10 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/biostatistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Community</title>
       <link>/tags/community/</link>
       <pubDate>Thu, 10 May 2018 00:00:00 +0000</pubDate>
@@ -21,11 +30,29 @@
     </item>
     
     <item>
+      <title>Interview</title>
+      <link>/tags/interview/</link>
+      <pubDate>Thu, 10 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/interview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>News</title>
       <link>/tags/news/</link>
       <pubDate>Thu, 10 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shiny</title>
+      <link>/tags/shiny/</link>
+      <pubDate>Thu, 10 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/shiny/</guid>
       <description></description>
     </item>
     
