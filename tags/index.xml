@@ -6,10 +6,19 @@
     <description>Recent content in Tags on R-Ladies Lausanne</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bioinformatics</title>
+      <link>/tags/bioinformatics/</link>
+      <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/bioinformatics/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Biostatistics</title>
@@ -30,9 +39,27 @@
     </item>
     
     <item>
+      <title>Ecology</title>
+      <link>/tags/ecology/</link>
+      <pubDate>Mon, 11 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/ecology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ggplot2</title>
+      <link>/tags/ggplot2/</link>
+      <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/ggplot2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Interview</title>
       <link>/tags/interview/</link>
-      <pubDate>Thu, 10 May 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 11 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/interview/</guid>
       <description></description>
@@ -53,6 +80,15 @@
       <pubDate>Thu, 10 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/shiny/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Twitter</title>
+      <link>/tags/twitter/</link>
+      <pubDate>Mon, 11 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/twitter/</guid>
       <description></description>
     </item>
     
