@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>Interview with Leonore Wigger (presenter #1)</title>
+      <title>Interview with Leonore Wigger</title>
       <link>/post/2018/06/12/presenter-1-leonore-wigger/</link>
       <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
       
@@ -20,7 +20,7 @@
       <description>The learning process is always two fold. On the one side it&amp;rsquo;s really just learning about statistical concepts and methods, but then on the other hand it&amp;rsquo;s also about to program the analysis in R.
  At our very first meetup, Leonore Wigger  gave a short presentation on how to arrange multiple ggplot plots onto multipage PDFs.
 
-R-Ladies Lausanne: What is the work that you do? Leonore Wigger: I work 50% at the Swiss Institute of Bioinformatics and the other 50% I work at the University of Lausanne, at the Lausanne Genomics technology facility, which is a service provider for lab experiments.</description>
+R-Ladies Lausanne: What is the work that you do? Leonore Wigger: I work 50% at the Swiss Institute of Bioinformatics and the other 50% at the University of Lausanne, at the Lausanne Genomic Technologies Facility, which is a service provider for RNA and DNA analysis.</description>
     </item>
     
   </channel>
