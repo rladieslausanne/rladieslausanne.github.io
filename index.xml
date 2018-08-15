@@ -8,7 +8,7 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 03 Aug 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,9 +17,44 @@
       <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/2018/08/03/news-august-2018/</guid>
-      <description>Since our last newsletter in May a few things have happened:
- In June we had our 4th meetup before the summer break, R-Ladies Global launched a new Community Slack, and we caught up with two of our speakers in an interview.  We are currently planning our meetups in Autumn, with the first meetup being in October ➡️ check our meetup page for updates.
-We are also looking for speakers and venues, please contact us via lausanne@rladies.</description>
+      <description>
+
+&lt;p&gt;Since our &lt;a href=&#34;https://rladieslausanne.github.io/post/2018/05/10/news-may-2018/&#34;&gt;last newsletter in May&lt;/a&gt; a few things have happened:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;In June we had our 4th &lt;a href=&#34;#meetup&#34;&gt;meetup&lt;/a&gt; before the summer break,&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rladies.org/&#34;&gt;R-Ladies Global&lt;/a&gt; launched a new &lt;a href=&#34;#slack&#34;&gt;Community Slack&lt;/a&gt;,&lt;/li&gt;
+&lt;li&gt;and we caught up with two of our speakers in an &lt;a href=&#34;#interview&#34;&gt;interview&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We are currently &lt;strong&gt;planning our meetups in Autumn&lt;/strong&gt;, with the first meetup being in October ➡️ check our &lt;a href=&#34;https://www.meetup.com/rladies-lausanne/&#34;&gt;meetup page&lt;/a&gt; for &lt;strong&gt;updates&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;We are also &lt;strong&gt;looking for speakers and venues&lt;/strong&gt;, please contact us via &lt;a href=&#34;mailto:lausanne@rladies.org&#34;&gt;lausanne@rladies.org&lt;/a&gt; if you like to get involved.&lt;/p&gt;
+
+&lt;h2 id=&#34;meetup&#34;&gt;Past meetup&lt;/h2&gt;
+
+&lt;p&gt;We had our &lt;a href=&#34;https://www.meetup.com/rladies-lausanne/events/250462129/&#34;&gt;4th meetup&lt;/a&gt; before the summer break in June @ ImpactHub in Lausanne.&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;en&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;&lt;a href=&#34;https://twitter.com/hashtag/rladieslausanne?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#rladieslausanne&lt;/a&gt; meetup #4 yesterday was 🔥 Thanks to the speakers @ lizadarrous &amp;amp; &lt;a href=&#34;https://twitter.com/SueK314?ref_src=twsrc%5Etfw&#34;&gt;@SueK314&lt;/a&gt; for excellent presentations and the participants for joining! &lt;br&gt;📑 Find all material here: &lt;a href=&#34;https://t.co/0EnO2JSOD1&#34;&gt;https://t.co/0EnO2JSOD1&lt;/a&gt;&lt;br&gt;We hope to see you back in autumn! 👋&lt;a href=&#34;https://twitter.com/hashtag/rladies?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#rladies&lt;/a&gt; &lt;a href=&#34;https://t.co/08aPziFrlR&#34;&gt;pic.twitter.com/08aPziFrlR&lt;/a&gt;&lt;/p&gt;&amp;mdash; R-Ladies Lausanne (@RLadiesLausanne) &lt;a href=&#34;https://twitter.com/RLadiesLausanne/status/1005098552626958337?ref_src=twsrc%5Etfw&#34;&gt;June 8, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;slack&#34;&gt;R-Ladies Community Slack&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://rladies.org/&#34;&gt;R-Ladies Global&lt;/a&gt; launched a new Community Slack 🎉.&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;en&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;📢 Join our new ✨ R-Ladies community Slack! ✨&lt;br&gt;&lt;br&gt;It&amp;#39;s aiming for a safe &amp;amp; global space to discuss topics and share ideas around &lt;a href=&#34;https://twitter.com/hashtag/rstats?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#rstats&lt;/a&gt; &amp;amp; the &lt;a href=&#34;https://twitter.com/hashtag/rladies?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#rladies&lt;/a&gt; community! 💜&lt;br&gt;&lt;br&gt;We invite all non-cis male R users to sign-up via &lt;a href=&#34;https://t.co/TOXALUGLuf&#34;&gt;https://t.co/TOXALUGLuf&lt;/a&gt; 🚀 &lt;a href=&#34;https://t.co/ZMNuqkN0HW&#34;&gt;pic.twitter.com/ZMNuqkN0HW&lt;/a&gt;&lt;/p&gt;&amp;mdash; R-Ladies Global (@RLadiesGlobal) &lt;a href=&#34;https://twitter.com/RLadiesGlobal/status/1022031250759053314?ref_src=twsrc%5Etfw&#34;&gt;July 25, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;interview&#34;&gt;Interview series with speakers: Leonore &amp;amp; Elizaveta&lt;/h2&gt;
+
+&lt;p&gt;In our series of interviews with speakers we caught up with our very first meetup speaker &lt;a href=&#34;https://rladieslausanne.github.io/post/2018/07/07/presenter-1-leonore-wigger/&#34;&gt;Leonore Wigger&lt;/a&gt; and &lt;a href=&#34;https://rladieslausanne.github.io/post/2018/07/31/interview-elizaveta-semenova/&#34;&gt;Elizaveta Semenova&lt;/a&gt; that gave a tutorial on Bayesian inference and Stan in R.&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;en&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;We interviewed Leonore Wigger - our very first &lt;a href=&#34;https://twitter.com/hashtag/rladieslausanne?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#rladieslausanne&lt;/a&gt; speaker - and asked her about her work and for how she uses R 👉 &lt;a href=&#34;https://t.co/aQ0C8jeTBk&#34;&gt;https://t.co/aQ0C8jeTBk&lt;/a&gt; … &lt;a href=&#34;https://twitter.com/hashtag/rladies?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#rladies&lt;/a&gt; &lt;a href=&#34;https://t.co/TNoOcF2GhR&#34;&gt;pic.twitter.com/TNoOcF2GhR&lt;/a&gt;&lt;/p&gt;&amp;mdash; R-Ladies Lausanne (@RLadiesLausanne) &lt;a href=&#34;https://twitter.com/RLadiesLausanne/status/1016273137284145154?ref_src=twsrc%5Etfw&#34;&gt;July 9, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;en&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Next up in our series of interviews with &lt;a href=&#34;https://twitter.com/hashtag/rladieslausanne?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#rladieslausanne&lt;/a&gt; speakers is &lt;a href=&#34;https://twitter.com/liza_p_semenova?ref_src=twsrc%5Etfw&#34;&gt;@liza_p_semenova&lt;/a&gt;! 👓 Read here &lt;a href=&#34;https://t.co/mMFxCfwWcJ&#34;&gt;https://t.co/mMFxCfwWcJ&lt;/a&gt; about her background, current work and why she choose to give a tutorial on Bayesian inference with &lt;a href=&#34;https://twitter.com/hashtag/stan?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#stan&lt;/a&gt; and &lt;a href=&#34;https://twitter.com/hashtag/rstats?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#rstats&lt;/a&gt;. &lt;a href=&#34;https://twitter.com/hashtag/rladies?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#rladies&lt;/a&gt; &lt;a href=&#34;https://t.co/4Pl4MEPZeu&#34;&gt;pic.twitter.com/4Pl4MEPZeu&lt;/a&gt;&lt;/p&gt;&amp;mdash; R-Ladies Lausanne (@RLadiesLausanne) &lt;a href=&#34;https://twitter.com/RLadiesLausanne/status/1024340158550892544?ref_src=twsrc%5Etfw&#34;&gt;July 31, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -28,8 +63,79 @@ We are also looking for speakers and venues, please contact us via lausanne@rlad
       <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/2018/07/31/interview-elizaveta-semenova/</guid>
-      <description>I think there is a lot of power in the Bayesian approach. The problem is the high entrance threshold due to the computational issues that it poses. So I am always very happy to talk about the benefits of Bayesian statistics and show how simple a model can look like.
- In past April, Elizaveta Semenova  gave an introduction to Bayesian inference in R, using Stan at our third meetup.</description>
+      <description>
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;I think there is a lot of power in the Bayesian approach. The problem is the high entrance threshold due to the computational issues that it poses. So I am always very happy to talk about the benefits of Bayesian statistics and show how simple a model can look like.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In past April, Elizaveta Semenova  &lt;a href=&#34;https://twitter.com/liza_p_semenova&#34;&gt;&lt;i class=&#34;fab fa-twitter&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;https://www.swisstph.ch/en/staff/profile/people/elizaveta-semenova/&#34;&gt;&lt;i class=&#34;far fa-address-card&#34;&gt;&lt;/i&gt;&lt;/a&gt; gave an introduction to Bayesian inference in R, using &lt;a href=&#34;http://mc-stan.org/&#34;&gt;Stan&lt;/a&gt; at our third meetup. In the meantime we had the chance to chat with her about her background and current work.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://htmlpreview.github.io/?https://github.com/rladies/meetup-presentations_lausanne/master/20180413_bayesian/elizavetasemenova-bayesian-stan/presentationHTML.html#/&#34; rel=&#34;noopener noreferrer&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;/files/img_slides.png&#34; alt=&#34;Slides&#34; height=&#34;70&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/rladies/meetup-presentations_lausanne/tree/master/20180413_bayesian/elizavetasemenova-bayesian-stan&#34;&gt;&lt;img src=&#34;/files/img_material.png&#34; alt=&#34;material&#34; height=&#34;70&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;
+  &lt;img src=&#34;/files/2018-04-13-bayesian/Liza1.png&#34; alt=&#34;Elizaveta&#34; height=&#34;300&#34; /&gt;
+  &lt;figcaption&gt;&lt;em&gt;Elizaveta speaking at the &lt;a href=&#34;https://www.appliedmldays.com/workshop_sessions/machine-learning-for-news-theory-applications-and-visualisation-in-python.1&#34;&gt;AMLD 2018&lt;/a&gt;.&lt;/em&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;r-ladies-lausanne-can-you-tell-us-about-the-work-that-you-do&#34;&gt;R-Ladies Lausanne: Can you tell us about the work that you do?&lt;/h4&gt;
+
+&lt;p&gt;&lt;u&gt;Elizaveta Semenova&lt;/u&gt;: Currently I am doing a PhD in Epidemiology and Biostatistics at the &lt;a href=&#34;https://www.swisstph.ch/en/&#34;&gt;Swiss Tropical Institute of Public Health&lt;/a&gt; where I develop novel models for the analysis of surveillance data.
+To be more precise, I study malaria at elimination stage. Historically, there have been cases when malaria came to pretty low levels in some countries but once the efforts were reduced those countries saw resurgence. The question is: what does one need to do, when malaria reaches the elimination stage, to eradicate it? My task is to provide a scientific answer to that, based on statistical modelling.&lt;/p&gt;
+
+&lt;h4 id=&#34;rll-from-what-countries-do-you-get-data&#34;&gt;RLL: From what countries do you get data?&lt;/h4&gt;
+
+&lt;p&gt;&lt;u&gt;ES&lt;/u&gt;: I, specifically, work with the data from Swaziland. This is a special country in the context of malaria. The highest burden of malaria worldwide is in sub-Saharan Africa. While some of the countries there have very high malaria burden and incidence, there are four countries, approaching elimination. And Swaziland is one of them. It is said to be the closest to elimination in the region.&lt;/p&gt;
+
+&lt;p&gt;What is also very special, is that they have established a surveillance system capturing precise coordinates of each case. Meaning, for each malaria case they record the GPS coordinates of the household and the day when it occurred. From our western point of view, there may seem to be nothing special in this kind of data, but in terms of malaria this is very unique.  And that&amp;rsquo;s the first country in sub-Saharan Africa where we can get access to this type of data. That is the first time that you can actually analyse this very precise spatio-temporal distribution of cases and gain more understanding of the process.&lt;/p&gt;
+
+&lt;h4 id=&#34;rll-at-r-ladies-lausanne-you-gave-a-presentation-on-bayesian-modelling-and-stan-how-does-this-play-in-to-your-work&#34;&gt;RLL: At R-Ladies Lausanne you gave a presentation on Bayesian modelling and Stan. How does this play in to your work?&lt;/h4&gt;
+
+&lt;p&gt;&lt;u&gt;ES&lt;/u&gt;: Stan is my absolute favourite tool for Bayesian inference. All the models, which will end up being part of my PhD, are formulated in the Bayesian framework. I have explored various tools for Bayesian inference, such as more readily available R packages and popular software.&lt;/p&gt;
+
+&lt;p&gt;But then, at the end, once I discovered Stan, I realised that it works best for me. It converges well for some very specific likelihoods, which was problematic in the software that I tried before. And using that other software I would have never be able to write my main PhD paper, which I am finishing now. Stan has this very peculiar sampling algorithm behind it (Hamiltonian Monte Carlo), which makes it very efficient. So Stan is something that, I think, has rescued my PhD.&lt;/p&gt;
+
+&lt;h4 id=&#34;rll-what-tools-to-you-use-at-work&#34;&gt;RLL: What tools to you use at work?&lt;/h4&gt;
+
+&lt;p&gt;&lt;u&gt;ES&lt;/u&gt;: I use R for any data acquisition, data handling, data processing. For modelling I only use Stan. I prepare the data in R, then send it to Stan, get the output from Stan, and do post-processing in R.&lt;/p&gt;
+
+&lt;h4 id=&#34;rll-and-where-and-when-did-you-learn-r&#34;&gt;RLL: And where and when did you learn R?&lt;/h4&gt;
+
+&lt;p&gt;&lt;u&gt;ES&lt;/u&gt;: When I started my PhD here in Basel. But I did encounter programming (Pascal) at school, when I was about 15 years old and was very fond of it. Later I got to know Delphi and C++. Back at University, I studied theoretical mathematics. And I did my diploma (an analogy of a masters) in differential equations. During my Bachelor and Diploma, most things were done with just pen and paper.&lt;/p&gt;
+
+&lt;h4 id=&#34;rll-what-do-you-appreciate-most-in-r&#34;&gt;RLL: What do you appreciate most in R?&lt;/h4&gt;
+
+&lt;p&gt;&lt;u&gt;ES&lt;/u&gt;: I think the simplicity and how easy it is to start. If you use R-Studio as the environment, it is just so simple. If you understand in general how programming works, you do not need to do a lot of installations or set up environments.&lt;/p&gt;
+
+&lt;p&gt;You do not need to think &amp;ldquo;oh how do I run this command now from terminal?&amp;rdquo;. And terminals of course terrify beginners. R has a much lower entrance threshold compared to any other tool that is used in statistics. You can start from day one already writing functional programs.&lt;/p&gt;
+
+&lt;h4 id=&#34;rll-what-would-you-like-to-learn-in-r&#34;&gt;RLL: What would you like to learn in R?&lt;/h4&gt;
+
+&lt;p&gt;&lt;u&gt;ES&lt;/u&gt;: I have to confess that I never properly learn ggplot2 in a fluent way.&lt;/p&gt;
+
+&lt;h4 id=&#34;rll-you-are-not-alone&#34;&gt;RLL: You are not alone!&lt;/h4&gt;
+
+&lt;p&gt;&lt;u&gt;ES&lt;/u&gt;: But then, during my PhD I was focussing a lot on modelling and was not keeping up with R development, libraries and productivity tools.&lt;/p&gt;
+
+&lt;h4 id=&#34;rll-what-motivated-you-to-give-a-talk-at-r-ladies-lausanne&#34;&gt;RLL: What motivated you to give a talk at R-Ladies Lausanne?&lt;/h4&gt;
+
+&lt;p&gt;&lt;u&gt;ES&lt;/u&gt;: I was very happy to talk about Bayesian&amp;rsquo;s statistics in general. I&amp;rsquo;m quite passionate about it, but of course I am heavily biased given that this is what I do every day.&lt;/p&gt;
+
+&lt;p&gt;I think there is a lot of power in it in Bayesian statistics. The problem is the heavy entrance threshold. So I am always very happy to talk about the benefits of Bayesian statistics and show how easy and simple a model can look like.&lt;/p&gt;
+
+&lt;p&gt;In the end, it is not rocket science to make Bayesian inference.&lt;/p&gt;
+
+&lt;h4 id=&#34;rll-do-you-have-any-free-advertisement-for-a-not-for-profit-organisation&#34;&gt;RLL: Do you have any free advertisement for a not-for profit organisation?&lt;/h4&gt;
+
+&lt;p&gt;&lt;u&gt;ES&lt;/u&gt;: I am part of &lt;a href=&#34;https://www.womenplusplus.ch/&#34;&gt;Women++&lt;/a&gt;, an non-profit organisation that aims to increase diversity in tech. After a recent &lt;a href=&#34;http://hackandlead.com/&#34;&gt;Hackathon&lt;/a&gt;, we have now a summer break. But updates will be published on &lt;a href=&#34;https://twitter.com/womenplusplus&#34;&gt;Twitter&lt;/a&gt;, Facebook and LinkedIn.&lt;/p&gt;
+
+&lt;h4 id=&#34;rll-thank-you-for-taking-time-and-all-the-best-for-the-remaining-time-of-your-phd&#34;&gt;RLL: Thank you for taking time and all the best for the remaining time of your PhD!&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;Technical note:&lt;/strong&gt;
+&lt;em&gt;This interview was recorded by Sina on July 5 and then transcribed. Some text was changed for clarification.&lt;/em&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -38,10 +144,78 @@ We are also looking for speakers and venues, please contact us via lausanne@rlad
       <pubDate>Sat, 07 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/2018/07/07/presenter-1-leonore-wigger/</guid>
-      <description>The learning process is always two fold. On the one side it&amp;rsquo;s really just learning about statistical concepts and methods, but then on the other hand it&amp;rsquo;s also about to program the analysis in R.
- At our very first meetup, Leonore Wigger  gave a short presentation on how to arrange multiple ggplot plots onto multipage PDFs.
+      <description>
 
-R-Ladies Lausanne: What is the work that you do? Leonore Wigger: I work 50% at the Swiss Institute of Bioinformatics and the other 50% at the University of Lausanne, at the Lausanne Genomic Technologies Facility, which is a service provider for RNA and DNA analysis.</description>
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;The learning process is always two fold. On the one side it&amp;rsquo;s really just learning about statistical concepts and methods, but then on the other hand it&amp;rsquo;s also about to program the analysis in R.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;At our very &lt;strong&gt;first meetup&lt;/strong&gt;, &lt;strong&gt;Leonore Wigger&lt;/strong&gt; &lt;a href=&#34;https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=1113974&amp;amp;LanCode=37&#34;&gt;&lt;i class=&#34;far fa-address-card&#34;&gt;&lt;/i&gt;&lt;/a&gt; gave a short presentation on how to arrange multiple ggplot plots onto multipage PDFs.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/rladies/meetup-presentations_lausanne/raw/master/20180201_kickoff/2018-02-01-lightning_multipage_pdf_lw.pdf&#34;&gt;&lt;img src=&#34;/files/img_slides.png&#34; alt=&#34;Slides&#34; height=&#34;70&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/files/2018-02-01-kickoff/DSC02007 (1).png&#34; alt=&#34;-&#34; height=&#34;300&#34; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;r-ladies-lausanne-what-is-the-work-that-you-do&#34;&gt;R-Ladies Lausanne: What is the work that you do?&lt;/h4&gt;
+
+&lt;p&gt;&lt;u&gt;Leonore Wigger&lt;/u&gt;: I work 50% at the &lt;a href=&#34;https://sib.swiss/&#34;&gt;Swiss Institute of Bioinformatics&lt;/a&gt; and the other 50% at the University of Lausanne, at the &lt;a href=&#34;https://www.unil.ch/gtf/en/home.html&#34;&gt;Lausanne Genomic Technologies Facility&lt;/a&gt;, which is a service provider for RNA and DNA analysis. My main activities are the statistical analysis of gene expression data and of lipidomics and metabolomics data. For the users of the service platform at the University I do mostly small routine statistical analyses of gene expression data. The facility has a wet lab, where experiments that involve special machines and knowhow are performed. I get the data from these experiments and do a first analysis. At the Swiss Institute of Bioinformatics, I spend most of my time on long term research projects. I am assigned to multiple projects at the same time. Currently, most of this work is related to diabetes. I am involved in a couple of very large European collaborations between several academic institutions and private companies. We are trying to find lipids or other molecules circulating in the blood that can serve as biomarkers for diabetes.&lt;/p&gt;
+
+&lt;h4 id=&#34;rll-what-do-you-use-r-for-at-work&#34;&gt;RLL: What do you use R for at work?&lt;/h4&gt;
+
+&lt;p&gt;&lt;u&gt;LW&lt;/u&gt;: All my scripts are in R. I use R for three things: data processing, statistical tests and graphics.&lt;/p&gt;
+
+&lt;h4 id=&#34;rll-you-mentioned-that-you-do-the-statistical-analyses-in-the-lausanne-genomic-technologies-facility-do-you-use-automated-reporting-for-that-in-r&#34;&gt;RLL: You mentioned that you do the statistical analyses in the Lausanne Genomic Technologies Facility. Do you use automated reporting for that in R?&lt;/h4&gt;
+
+&lt;p&gt;&lt;u&gt;LW&lt;/u&gt;: I use knitr and R Markdown, but it’s not completely automated. I have standard building blocks for my reports, and from these I generate a final report by removing or adding blocks to tailor the report.&lt;/p&gt;
+
+&lt;h4 id=&#34;rll-where-and-when-did-you-learn-r&#34;&gt;RLL: Where and when did you learn R?&lt;/h4&gt;
+
+&lt;p&gt;&lt;u&gt;LW&lt;/u&gt;: My very first contact with R was during my Master thesis, but I really only used it to produce some boxplots. After that, I learned R on the job here. I started here 7 years ago with my extremely limited knowledge and my boss gave me his examples and his collection of functions to get started.&lt;/p&gt;
+
+&lt;h4 id=&#34;rll-did-you-find-it-easy-to-learn-r-on-the-job&#34;&gt;RLL: Did you find it easy to learn R on the job?&lt;/h4&gt;
+
+&lt;p&gt;&lt;u&gt;LW&lt;/u&gt;: It was ok. It was not the first programming language that I learned. And the analyses were all very standardized. So actually that type of work was good to slowly get into R. For a long time, my knowledge of R stayed pretty limited because I never really took the time to learn more complex things. Only during the last one or two years did I begin to venture further and to look for things that expanded my R vocabulary.&lt;/p&gt;
+
+&lt;h4 id=&#34;rll-what-are-your-favorite-r-tools&#34;&gt;RLL: What are your favorite R tools?&lt;/h4&gt;
+
+&lt;p&gt;&lt;u&gt;LW&lt;/u&gt;: The one I use most often for gene expression analysis is the Bioconductor package called &lt;a href=&#34;https://bioconductor.org/packages/release/bioc/html/limma.html&#34;&gt;limma&lt;/a&gt;. This is my main tool. It’s the one I “grew up with”.&lt;/p&gt;
+
+&lt;p&gt;For the same purpose (analysis of gene expression) I use &lt;a href=&#34;https://bioconductor.org/packages/release/bioc/html/DESeq2.html&#34;&gt;DESeq2&lt;/a&gt;. I use it much less often than limma, but the reason why I mention it as a favorite is that they do an excellent job with the vignettes and documentation, and they update it constantly as well. So every time I check, there is something new and useful.&lt;/p&gt;
+
+&lt;p&gt;Lastly I’d like to mention two packages that I used a lot recently and that make my work easier when I am using statistical functions from R base.&lt;/p&gt;
+
+&lt;p&gt;One of them is the package broom, and out of this one I especially like the function tidy. Small and simple, but extremely useful. Tidy is a function that takes the output of something like &lt;code&gt;lm()&lt;/code&gt; and turns it into a data frame. The other one that I currently like to use is multcomp, especially the function &lt;a href=&#34;https://www.rdocumentation.org/packages/multcomp/versions/1.4-7/topics/glht&#34;&gt;glht&lt;/a&gt;, which is a nice tool for extracting contrasts from linear models.&lt;/p&gt;
+
+&lt;h4 id=&#34;rll-what-resources-do-you-use-when-you-get-stuck&#34;&gt;RLL: What resources do you use when you get stuck?&lt;/h4&gt;
+
+&lt;p&gt;&lt;u&gt;LW&lt;/u&gt;: Of course I use R-help, Stack Overflow and Google.&lt;/p&gt;
+
+&lt;p&gt;But there are a few more things to say. Sometimes I ask my coworkers about things that I see them do. This is super relevant and important. And it goes both ways – they ask me too.&lt;/p&gt;
+
+&lt;p&gt;Twice I posted a question to a forum. These questions were about the usage and behavior of very specific functions in very specific packages. Each time I was hoping very much that the author of the package would respond to me, and in both cases they did. They gave me the perfect answer that I was looking for. This was very cool.&lt;/p&gt;
+
+&lt;p&gt;A few times I have also used books. One time I was using a package extensively for a bigger project, and after a while I bought the book specifically about this package.&lt;/p&gt;
+
+&lt;h4 id=&#34;rll-what-would-you-like-to-learn-in-r&#34;&gt;RLL: What would you like to learn in R?&lt;/h4&gt;
+
+&lt;p&gt;&lt;u&gt;LW&lt;/u&gt;: My main battles are always how to specify statistical models correctly and how to read and interpret the output correctly. I am using linear and logistic regression models, and sometimes linear mixed effect models. Every time I use them I still have plenty of open questions and my aspiration is to get more proficient.&lt;/p&gt;
+
+&lt;p&gt;The next thing I am planning to get more into are generalized linear mixed models. The learning process is always two-fold. On the one hand it’s about statistical concepts and methods independently of any programming language, but on the other hand it’s also about how to program the analysis in R.&lt;/p&gt;
+
+&lt;h4 id=&#34;rll-what-are-tools-that-keep-your-day-smooth&#34;&gt;RLL: What are tools that keep your day smooth?&lt;/h4&gt;
+
+&lt;p&gt;&lt;u&gt;LW&lt;/u&gt;: For programming in R, I use RStudio. I write most of my code in R Markdown documents. Sometimes I make reports with knitr out of them, but not always. I also use RStudio’s integrated access to git. I much appreciate how simple it is to use.&lt;/p&gt;
+
+&lt;p&gt;I work on a Windows machine and would also like to say a word about a tool that has nothing to do with R. It is MobaXterm. This is a terminal for Windows. The two functionalities that I use: It gives me many Linux commands on my Windows machine and it allows me to connect to remote machines via SSH.&lt;/p&gt;
+
+&lt;h4 id=&#34;rll-what-motivated-you-to-give-a-talk-at-r-ladies-lausanne&#34;&gt;RLL: What motivated you to give a talk at R-Ladies Lausanne?&lt;/h4&gt;
+
+&lt;p&gt;&lt;u&gt;LW&lt;/u&gt;: Sarvenaz asked me if I wanted to give a short talk at the first R-ladies meeting. I took a long time to respond to her request. In the end, my principal motivation to do it was to show my appreciation for this new initiative.&lt;/p&gt;
+
+&lt;h4 id=&#34;rll-and-we-appreciated-it-thank-you-and-thank-you-for-taking-time-to-do-this-interview&#34;&gt;RLL: &amp;hellip;and we appreciated it! Thank you! And thank you for taking time to do this interview!&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;Technical note:&lt;/strong&gt; &lt;em&gt;This is a transcription of a recorded interview between Leonore and Sina. Additionally, Lenore provided the answers to the questions in written form. Some text was changed for clarification.&lt;/em&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -50,11 +224,71 @@ R-Ladies Lausanne: What is the work that you do? Leonore Wigger: I work 50% at t
       <pubDate>Thu, 10 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/2018/05/10/presenter-2-elisabeth-dahlqwist/</guid>
-      <description>The reason I presented at R-Ladies, is, that when I had done my first shiny app, I felt it was really amazing and I really wanted to share my experience of doing that, because it was quite easy.
- Elisabeth Dahlqwist  gave an introduction to Shiny at our second R-Ladies Lausanne meetup.
+      <description>
 
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;The reason I presented at R-Ladies, is, that when I had done my first shiny app, I felt it was really amazing and I really wanted to share my experience of doing that, because it was quite easy.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 
-Sina R&amp;uuml;eger: What is the work that you do? Elisabeth Dahlqwist: I&amp;rsquo;m a PhD student in Biostatistics at Karoliska Institute in Stockholm.</description>
+&lt;p&gt;&lt;strong&gt;Elisabeth Dahlqwist&lt;/strong&gt; &lt;a href=&#34;https://twitter.com/Elistif&#34;&gt;&lt;i class=&#34;fab fa-twitter&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;https://ki.se/en/people/elisda&#34;&gt;&lt;i class=&#34;far fa-address-card&#34;&gt;&lt;/i&gt;&lt;/a&gt; gave an introduction to &lt;strong&gt;Shiny&lt;/strong&gt; at our &lt;strong&gt;second&lt;/strong&gt; R-Ladies Lausanne meetup.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/rladies/meetup-presentations_lausanne/raw/master/20180314_shiny/shiny_presentation.pdf&#34;&gt;&lt;img src=&#34;/files/img_slides.png&#34; alt=&#34;Slides&#34; height=&#34;70&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/rladies/meetup-presentations_lausanne/raw/master/20180314_shiny/shiny_examples.zip&#34;&gt;&lt;img src=&#34;/files/img_material.png&#34; alt=&#34;Github Logo&#34; height=&#34;70&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/files/2018-03-14-shiny/DSC02080-small.png&#34; alt=&#34;-&#34; height=&#34;300&#34; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;sina-r-uuml-eger-what-is-the-work-that-you-do&#34;&gt;Sina R&amp;uuml;eger: What is the work that you do?&lt;/h4&gt;
+
+&lt;p&gt;&lt;u&gt;Elisabeth Dahlqwist&lt;/u&gt;: I&amp;rsquo;m a PhD student in Biostatistics at Karoliska Institute in Stockholm. Right now I&amp;rsquo;m visiting Lausanne to get more expertise in genetics. Plus my boyfriend lives here, so I came over to try to live in Switzerland for six months. The work I&amp;rsquo;m doing is mostly method development for estimating the attributable fraction. More specifically, I am interested in the causal interpretation of the attributable fraction. So I work somewhere in between epidemiology and causal inference.&lt;/p&gt;
+
+&lt;h4 id=&#34;sr-and-do-you-use-r-for-that&#34;&gt;SR: And do you use R for that?&lt;/h4&gt;
+
+&lt;p&gt;&lt;u&gt;ED&lt;/u&gt;: Yes, I use R everyday. When I started my PhD, my supervisor told me that the aim of my PhD was, to develop an R package. I had been
+using R before but I really didn&amp;rsquo;t feel like I was good enough to create an R package. But now I&amp;rsquo;ve done that R package!&lt;/p&gt;
+
+&lt;h4 id=&#34;sr-well-done-we-will-link-to-that-https-cran-r-project-org-web-packages-af-index-html&#34;&gt;SR: Well done - we will link to &lt;a href=&#34;https://cran.r-project.org/web/packages/AF/index.html&#34;&gt;that&lt;/a&gt;!&lt;/h4&gt;
+
+&lt;h4 id=&#34;sr-where-did-you-learn-r&#34;&gt;SR: Where did you learn R?&lt;/h4&gt;
+
+&lt;p&gt;&lt;u&gt;ED&lt;/u&gt;: I learned R when I wrote my Bachelor thesis in statistics. During the bachelor studies, we had not learned R. Instead we got to know all kinds of other software, like minitab and eviews, which we never used after the bachelor. But the girl I wrote the thesis with, used R and she said that we were going to use R, because we were going to implement a new method. And so we had to learn R by ourselves. I remember, it was really tricky and for me, having no programming background at all, it was very, very challenging. Later, when I started my masters in statistics we had an R course and it was still very tricky.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/files/2018-03-14-shiny/DSC02081.png&#34; alt=&#34;-&#34; height=&#34;300&#34; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;sr-during-the-time-when-you-did-you-bachelor-thesis-what-were-the-resources-that-you-used-to-learn-r&#34;&gt;SR: During the time, when you did you bachelor thesis, what were the resources that you used to learn R?&lt;/h4&gt;
+
+&lt;p&gt;&lt;u&gt;ED&lt;/u&gt;: Back then I didn&amp;rsquo;t know anything about the power of Google and stackoverflow and all of that. I think we had a file with some examples, like creating a matrix. And then we were creating our own matrices and creating vectors. It was really, really basic. And from that we built up the whole program that we made from these very basic elements. Today, I think, it would be terrible to see the code, but we were very proud back then.&lt;/p&gt;
+
+&lt;h4 id=&#34;sr-and-today-where-do-you-look-for-r-help&#34;&gt;SR: And today, where do you look for R help?&lt;/h4&gt;
+
+&lt;p&gt;&lt;u&gt;ED&lt;/u&gt;: I used Google all the time. Because, for me, it&amp;rsquo;s hard to remember all the different commands and so I just always google and then usually I end up at stackoverflow. Or quick-R, if its a more basic thing.&lt;/p&gt;
+
+&lt;h4 id=&#34;sr-over-the-recent-years-when-you-look-back-at-the-time-when-you-were-a-bachelor-student-what-do-you-think-has-been-the-most-powerful-change-for-development-in-r-for-your-work&#34;&gt;SR: Over the recent years, when you look back at the time when you were a bachelor student, what do you think has been the most powerful change for development in R for your work.&lt;/h4&gt;
+
+&lt;p&gt;&lt;u&gt;ED&lt;/u&gt;: I&amp;rsquo;m very happy with ggplot2. When I learned that, I felt that my plots became so much nicer. I felt much more professional. But also when I learned Shiny, that was really really cool and really inspiring to see what you can do.&lt;/p&gt;
+
+&lt;h4 id=&#34;sr-what-are-you-planning-to-learn-next-in-r&#34;&gt;SR: What are you planning to learn next in R?&lt;/h4&gt;
+
+&lt;p&gt;&lt;u&gt;ED&lt;/u&gt;: Right now, I would like to learn how to work better with big data in R. Also data management, dplyr. And it would also be cool to learn how to do more advanced plotting.&lt;/p&gt;
+
+&lt;h4 id=&#34;sr-what-motivated-you-to-give-a-talk-at-r-ladies&#34;&gt;SR: What motivated you to give a talk at R-Ladies?&lt;/h4&gt;
+
+&lt;p&gt;&lt;u&gt;ED&lt;/u&gt;: When I had done my first shiny app, I felt it was really amazing and I really wanted to share my experience of doing that, because it was quite easy. And the result is pretty cool. You can really make your R functions of the code available for everyone, not only those who use R. So using Shiny it is possible to drastically lowers the threshold for non-R users to get into R. And I think that&amp;rsquo;s really nice.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/files/2018-03-14-shiny/DSC02087.png&#34; alt=&#34;-&#34; height=&#34;300&#34; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;sr-there-are-rumours-that-you-will-start-r-ladies-stockholm-together-with-some-other-folks-is-that-right&#34;&gt;SR: There are rumours that you will start R-Ladies Stockholm together with some other folks, is that right?&lt;/h4&gt;
+
+&lt;p&gt;&lt;u&gt;ED&lt;/u&gt;: The rumours are right! We plan to have the first meeting in in September or October. I found four other people in Stockholm from a different domains: One is working with geo data at a private company, the second one is more into biostatistics, the third one does image processing, the fourth one is working with machine learning. In terms of profiles we&amp;rsquo;re a pretty diverse group. So I hope that this way, we can attract people from  different areas too.&lt;/p&gt;
+
+&lt;h4 id=&#34;sr-would-you-like-to-do-some-free-advertisement&#34;&gt;SR: Would you like to do some free advertisement?&lt;/h4&gt;
+
+&lt;p&gt;&lt;u&gt;ED&lt;/u&gt;: There are two really nice initiatives in Stockholm that I would like to promote. I haven&amp;rsquo;t participated that much, but hope to do so in the future. One is &lt;a href=&#34;https://www.pinkprogramming.se/&#34;&gt;Pink Programming&lt;/a&gt;, which is targeted to women at all proficency levels and covers all kinds of different programming languages. You meet on a Sunday and spend the whole day getting to know new people and developing your programming skills. The second one is &lt;a href=&#34;http://foocafe.org/&#34;&gt;Foo Cafe&lt;/a&gt; in Stockholm. That is a cafe that hosts meetups. They even find sponsors for you and help you with the venue and everything. I think places like the Foo cafe makes initiatives like R-ladies much more easy to organize!&lt;/p&gt;
+
+&lt;h4 id=&#34;sr-thank-you-all-the-best-for-r-ladies-stockholm&#34;&gt;SR: Thank you &amp;amp; all the best for R-Ladies Stockholm!&lt;/h4&gt;
+
+&lt;p&gt;&lt;u&gt;ED&lt;/u&gt;: Thank you!&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -63,9 +297,56 @@ Sina R&amp;uuml;eger: What is the work that you do? Elisabeth Dahlqwist: I&amp;r
       <pubDate>Thu, 10 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/2018/05/10/news-may-2018/</guid>
-      <description>Meetup #4 on June 7 @ ImpactHub We will have our fourth meetup on June 7, 2018, 7 pm at ImpactHub (door opens at 6:30 pm).
-During one hour we will have several speakers talking about different topics, each presentation will be 10-20 min long (aka ThundeR talks!).
-We also encourage you to bring along your R problems 30 min before the meetup starts - we 💜solving R riddles!</description>
+      <description>
+
+&lt;h2 id=&#34;meetup-4-on-june-7-impacthub&#34;&gt;Meetup #4 on June 7 @ ImpactHub&lt;/h2&gt;
+
+&lt;p&gt;We will have our fourth meetup on June 7, 2018, 7 pm at &lt;a href=&#34;https://lausanne.impacthub.net/&#34;&gt;ImpactHub&lt;/a&gt; (door opens at 6:30 pm).&lt;/p&gt;
+
+&lt;p&gt;During one hour we will have several speakers talking about different topics, each presentation will be 10-20 min long (aka ThundeR talks!).&lt;/p&gt;
+
+&lt;p&gt;We also encourage you to bring along your R problems 30 min before the meetup starts - we 💜solving R riddles!&lt;/p&gt;
+
+&lt;p&gt;You can &lt;a href=&#34;https://www.meetup.com/rladies-lausanne/events/250462129/&#34;&gt;register&lt;/a&gt; to attend and &amp;hellip; we are still looking for two more speakers! So get in touch with us!&lt;/p&gt;
+
+&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10980.507935008927!2d6.624115!3d46.525389!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xe63af32d75408e0b!2sImpact+Hub+Lausanne!5e0!3m2!1sde!2sch!4v1525944199364&#34; width=&#34;300&#34; height=&#34;225&#34; frameborder=&#34;0&#34; style=&#34;border:0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&#34;r-ladies-lausanne-has-a-webpage&#34;&gt;R-Ladies Lausanne has a Webpage!&lt;/h2&gt;
+
+&lt;p&gt;Click on &lt;em&gt;subscribe&lt;/em&gt; to enable the &lt;a href=&#34;https://rladieslausanne.github.io/index.xml&#34;&gt;RSS&lt;/a&gt; feed for this site.&lt;/p&gt;
+
+&lt;p&gt;The webpage is heavily based on the webpage of &lt;a href=&#34;https://rladiessydney.org/posts/contribute-a-post/&#34;&gt;R-Ladies Sydney&lt;/a&gt; and relies on &lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34;&gt;blogdown&lt;/a&gt;, the &lt;a href=&#34;https://github.com/yihui/hugo-xmin&#34;&gt;hugo-xmin&lt;/a&gt; template by Xie Yihui and some hacks in the &lt;code&gt;.css&lt;/code&gt; files.&lt;/p&gt;
+
+&lt;p&gt;You find the source code for our webpage &lt;a href=&#34;https://github.com/rladies/meetup-presentations_lausanne/tree/master/webpage&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;contribute-to-our-webpage&#34;&gt;Contribute to our webpage&lt;/h2&gt;
+
+&lt;p&gt;The goal of this webpage is, to keep people informed about our meetups under &lt;a href=&#34;/categories/posts/&#34;&gt;news &amp;amp; blogposts&lt;/a&gt;, by posting  &lt;a href=&#34;/categories/news/&#34;&gt;&lt;strong&gt;news&lt;/strong&gt;&lt;/a&gt;, summaries from past &lt;a href=&#34;/categories/meetup/&#34;&gt;&lt;strong&gt;meetups&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;/categories/interview/&#34;&gt;&lt;strong&gt;interviews&lt;/strong&gt;&lt;/a&gt; of our &lt;a href=&#34;/community/#speakers&#34;&gt;speakers&lt;/a&gt;. &lt;!-- and by publishing contributed [**blogposts**](/categories/blogpost/).--&gt;&lt;/p&gt;
+
+&lt;p&gt;Would you like to contribute a &lt;em&gt;blogpost&lt;/em&gt;? Or do you make notes during meetups and would like to share them with everyone? Send us the markdown file via email at &lt;a href=&#34;mailto:lausanne@rladies.org&#34;&gt;lausanne@rladies.org&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;hackathons-in-2018&#34;&gt;Hackathons in 2018&lt;/h2&gt;
+
+&lt;h3 id=&#34;hack-n-lead&#34;&gt;Hack&amp;rsquo;n&amp;rsquo;Lead&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://hackandlead.com/&#34;&gt;Hack&amp;rsquo;n&amp;rsquo;Lead&lt;/a&gt; is the first women-friendly hackathon of Switzerland. It is organised by &lt;a href=&#34;https://www.womenplusplus.ch/&#34;&gt;women++&lt;/a&gt;, a non-profit association which strives to increase diversity in tech.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;When: June 17-18 2018&lt;/li&gt;
+&lt;li&gt;Where: Zurich&lt;/li&gt;
+&lt;li&gt;Register &lt;a href=&#34;http://hackandlead.com/&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;twist-finding-truth-within-statistics&#34;&gt;TWIST: &amp;ldquo;Finding Truth WIthin STatistics&amp;rdquo;&lt;/h3&gt;
+
+&lt;p&gt;This is the subject of the 1st &lt;a href=&#34;http://www.twist2018.ch/&#34;&gt;Swiss Statistics Hackathon&lt;/a&gt; , which is part of the &lt;a href=&#34;https://www.statistiktage.ch/&#34;&gt;Swiss Meeting Statistics&lt;/a&gt; this year.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;When: August 27-28 2018&lt;/li&gt;
+&lt;li&gt;Where: University of Zurich&lt;/li&gt;
+&lt;li&gt;Register &lt;a href=&#34;http://www.twist2018.ch/&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -74,11 +355,76 @@ We also encourage you to bring along your R problems 30 min before the meetup st
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>R-Ladies is a world-wide organization to promote gender diversity in the R community.
-R-Ladies Global The mission of R-Ladies is to achieve proportionate representation of genders currently underrepresented in the R community by encouraging, inspiring, and empowering them.
-R-Ladies Global provides support to local (and remote) chapters that exist around the world.
-Chapters Chapters are somewhat similar to R-user groups.
-There are plenty of chapters around the world, listed here.</description>
+      <description>
+
+&lt;p&gt;&lt;a href=&#34;https://rladies.org/&#34;&gt;&lt;img src=&#34;/files/R-LadiesGlobal_RBG_online_LogoOnly.svg&#34; alt=&#34;R-Ladies Logo&#34; height=&#34;100&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://rladies.org/&#34;&gt;R-Ladies&lt;/a&gt; is a world-wide organization to &lt;strong&gt;promote gender diversity&lt;/strong&gt; in the &lt;em&gt;R community&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;r-ladies-global&#34;&gt;R-Ladies Global&lt;/h2&gt;
+
+&lt;p&gt;The mission of &lt;strong&gt;R-Ladies&lt;/strong&gt; is to achieve proportionate representation of genders currently underrepresented in the R community by &lt;strong&gt;encouraging&lt;/strong&gt;, &lt;strong&gt;inspiring&lt;/strong&gt;, and &lt;strong&gt;empowering&lt;/strong&gt; them.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://rladies.org/about-us/team/&#34;&gt;R-Ladies Global&lt;/a&gt; provides support to local (and remote) &lt;em&gt;chapters&lt;/em&gt; that exist around the world.&lt;/p&gt;
+
+&lt;h3 id=&#34;chapters&#34;&gt;Chapters&lt;/h3&gt;
+
+&lt;p&gt;Chapters are somewhat similar to R-user groups.&lt;/p&gt;
+
+&lt;p&gt;There are plenty of chapters around the world, listed &lt;a href=&#34;https://github.com/rladies/starter-kit/blob/master/Current-Chapters.md&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;There is also an &lt;a href=&#34;https://gqueiroz.shinyapps.io/rshinylady/&#34;&gt;app&lt;/a&gt; that lists the current meetups and a &lt;a href=&#34;https://github.com/rladies/Map-RLadies-Growing&#34;&gt;map&lt;/a&gt; that shows the evolution over time.&lt;/p&gt;
+
+&lt;p&gt;Find material on other chapters meetups at this &lt;a href=&#34;https://github.com/rladies/&#34;&gt;github repository&lt;/a&gt; (search for repositories named &lt;code&gt;meetup-presentations_TOWN&lt;/code&gt;).&lt;/p&gt;
+
+&lt;h3 id=&#34;remote&#34;&gt;Remote&lt;/h3&gt;
+
+&lt;p&gt;There is also an &lt;a href=&#34;https://twitter.com/rladiesremote?lang=de&#34;&gt;R-Ladies Remote&lt;/a&gt; chapter for people that either work remotely, or have no local chapter nearby.&lt;/p&gt;
+
+&lt;h2 id=&#34;r-ladies-lausanne&#34;&gt;R-Ladies Lausanne&lt;/h2&gt;
+
+&lt;p&gt;The chapter in Lausanne was founded in November 2017.&lt;/p&gt;
+
+&lt;p&gt;We are currently four organisers (if you&amp;rsquo;d like to help - drop us a line!)&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Andrea Komljenovic &lt;a href=&#34;https://twitter.com/antifreezeprot&#34;&gt;&lt;i class=&#34;fab fa-twitter&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Ninon Mounier &lt;a href=&#34;https://twitter.com/Nin0nM&#34;&gt;&lt;i class=&#34;fab fa-twitter&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Sarvenaz Choobdar &lt;a href=&#34;https://twitter.com/sarvenazch&#34;&gt;&lt;i class=&#34;fab fa-twitter&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Sina R&amp;uuml;eger &lt;a href=&#34;https://twitter.com/sinarueeger&#34;&gt;&lt;i class=&#34;fab fa-twitter&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;https://sinarueeger.github.io/&#34;&gt;&lt;i class=&#34;far fa-address-card&#34;&gt;&lt;/i&gt;&lt;/a&gt; &lt;!--[&lt;i class=&#34;fas fa-home&#34;&gt;&lt;/i&gt;](https://sinarueeger.github.io/)--&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;figure&gt;
+  &lt;img src=&#34;/files/pics/DSC02009_annotated.png&#34; alt=&#34;Picture from our first meetup in February.&#34; height=&#34;300&#34; /&gt;
+  &lt;figcaption&gt;&lt;em&gt;All participants and organisers from our first meetup in February 2018.&lt;/em&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;contact&#34;&gt;Contact&lt;/h3&gt;
+
+&lt;p&gt;You can contact us via &lt;a href=&#34;mailto:lausanne@rladies.org&#34;&gt;lausanne@rladies.org&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;stay-up-to-date&#34;&gt;Stay up to date&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Click on &lt;em&gt;subscribe&lt;/em&gt; to enable the &lt;a href=&#34;https://rladieslausanne.github.io/index.xml&#34;&gt;RSS&lt;/a&gt; feed for this site.&lt;/li&gt;
+&lt;li&gt;Checkout our &lt;a href=&#34;http://meetu.ps/c/3Flzf/vBnX0/f&#34;&gt;Meetup page&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Follow us on &lt;a href=&#34;https://twitter.com/RLadiesLausanne&#34;&gt;Twitter&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Follow us on &lt;a href=&#34;https://www.facebook.com/RLadiesLausanne/&#34;&gt;Facebook&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Find material on our &lt;a href=&#34;https://github.com/rladies/meetup-presentations_lausanne&#34;&gt;github repository&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;sponsors&#34;&gt;Sponsors&lt;/h3&gt;
+
+&lt;p&gt;We are supported by &lt;a href=&#34;rladies.org&#34;&gt;R-Ladies Global&lt;/a&gt; and the &lt;a href=&#34;https://www.r-consortium.org/projects/r-user-group-support-program&#34;&gt;R-consortium&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;code-of-conduct&#34;&gt;Code of Conduct&lt;/h2&gt;
+
+&lt;p&gt;We follow the &lt;a href=&#34;https://github.com/rladies/starter-kit/wiki/Code-of-Conduct&#34;&gt;Code of Conduct&lt;/a&gt; and encourage participants to read &lt;a href=&#34;https://github.com/rladies/starter-kit/blob/master/R-Ladies_RulesGuidelines.pdf&#34;&gt;Rules &amp;amp; Guidelines of R-Ladies&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;speakers&#34;&gt;Speakers&lt;/h2&gt;
+
+&lt;p&gt;R-Ladies lives through its participants. We &lt;strong&gt;always&lt;/strong&gt; need speakers for meetups! Please get in touch with us at &lt;a href=&#34;mailto:lausanne@rladies.org&#34;&gt;lausanne@rladies.org&lt;/a&gt;. Find more details to speaking &lt;a href=&#34;/community/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -87,11 +433,44 @@ There are plenty of chapters around the world, listed here.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/community/</guid>
-      <description>Come to our meetups Participate in our meetups, talk to other R users over a drink and don&amp;rsquo;t hesitate to bring R problems along!
-Be a speaker As we always need R speakers for meetups, please get in touch with us!
-The only requirement is some passion for R.
-Watch out for Lightening or ThundeR talks! A great opportunity for everyone to present.
-Here is what you will gain from it:</description>
+      <description>
+
+&lt;h2 id=&#34;come-to-our-meetups&#34;&gt;Come to our meetups&lt;/h2&gt;
+
+&lt;p&gt;Participate in our meetups, talk to other R users over a drink and don&amp;rsquo;t hesitate to bring R problems along!&lt;/p&gt;
+
+&lt;h2 id=&#34;be-a-speaker&#34;&gt;Be a speaker&lt;/h2&gt;
+
+&lt;p&gt;As we always need R speakers for meetups, please get in touch with us!&lt;/p&gt;
+
+&lt;p&gt;The only requirement is some passion for R.&lt;/p&gt;
+
+&lt;p&gt;Watch out for &lt;em&gt;Lightening&lt;/em&gt; or &lt;em&gt;ThundeR&lt;/em&gt; talks! A great opportunity for everyone to present.&lt;/p&gt;
+
+&lt;p&gt;Here is what you will gain from it:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Experience&lt;/li&gt;
+&lt;li&gt;Exposure&lt;/li&gt;
+&lt;li&gt;Being interviewed (if you like)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;suggest-speakers&#34;&gt;Suggest speakers&lt;/h2&gt;
+
+&lt;p&gt;If you know somebody that could present at our meetup, let us know!&lt;/p&gt;
+
+&lt;!-- [Sponsorship](http://hookedondata.org/The-Importance-of-Sponsorship/) --&gt;
+
+&lt;h2 id=&#34;contribute-to-our-webpage&#34;&gt;Contribute to our webpage&lt;/h2&gt;
+
+&lt;p&gt;The goal of this webpage is, to keep people informed about our meetups under &lt;a href=&#34;/categories/posts/&#34;&gt;news &amp;amp; blogposts&lt;/a&gt;, by posting  &lt;a href=&#34;/categories/news/&#34;&gt;&lt;strong&gt;news&lt;/strong&gt;&lt;/a&gt;, summaries from past &lt;a href=&#34;/categories/meetup/&#34;&gt;&lt;strong&gt;meetups&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;/categories/interview/&#34;&gt;&lt;strong&gt;interviews&lt;/strong&gt;&lt;/a&gt; of our &lt;a href=&#34;/community/#speakers&#34;&gt;speakers&lt;/a&gt; and list &lt;a href=&#34;/categories/blogpost/&#34;&gt;&lt;strong&gt;blogposts&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Would you like to contribute a &lt;em&gt;blogpost&lt;/em&gt;? Or do you make notes during meetups and would like to share them with everyone? Send us the markdown file via email at &lt;a href=&#34;mailto:lausanne@rladies.org&#34;&gt;lausanne@rladies.org&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;help-the-organisers&#34;&gt;Help the organisers&lt;/h2&gt;
+
+&lt;p&gt;Would you like to get involved in the organisation of R-Ladies Lausanne. Drop us a line!&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -100,9 +479,78 @@ Here is what you will gain from it:</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/events/</guid>
-      <description>We have a meetup roughly every second month.
-The content of our meetups varies:
- A mix of short talks on a range of topics. This is an excellent opportunity for everyone to present what they are passionate about. For example: Favourite R packages, Applications for which you use R, The best way to learn R. How-tos/Tutorials of R-packages and applications. Are you an experienced in an R-related-topic that you would like to share and others to learn?</description>
+      <description>
+
+&lt;p&gt;We have a meetup roughly every second month.&lt;/p&gt;
+
+&lt;p&gt;The content of our meetups varies:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A mix of &lt;strong&gt;short talks&lt;/strong&gt; on a range of topics. This is an excellent opportunity for everyone to present what they are passionate about. &lt;em&gt;For example: Favourite R packages&lt;/em&gt;, &lt;em&gt;Applications for which you use R&lt;/em&gt;, &lt;em&gt;The best way to learn R&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;How-tos/Tutorials&lt;/strong&gt; of R-packages and applications. Are you an experienced in an R-related-topic that you would like to share and others to learn? &lt;em&gt;For example: integrating code into text and making it reproducible: rmarkdown and knitr, tidyr, shiny&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tutorials&lt;/strong&gt; on &lt;em&gt;getting started in R&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you would like to &lt;strong&gt;speak at a meetup&lt;/strong&gt; or have an idea for an event ➡️ &lt;a href=&#34;emailto:lausanne@rladies.org&#34;&gt;email us&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;We also encourage you to &lt;strong&gt;bring along your R problems&lt;/strong&gt; 30 min before the meetup starts - we 💜 solving R riddles!&lt;/p&gt;
+
+&lt;h2 id=&#34;upcoming-events&#34;&gt;Upcoming Events&lt;/h2&gt;
+
+&lt;p&gt;Our next event is on &lt;strong&gt;June 7 2018&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Short 10-20 minutes talks on mixed topics (aka &lt;code&gt;ThundeR&lt;/code&gt; talks!)&lt;/li&gt;
+&lt;li&gt;Still looking for speakers, &lt;a href=&#34;emailto:lausanne@rladies.org&#34;&gt;email us&lt;/a&gt; if you are interested!&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.meetup.com/rladies-lausanne/events/250462129/&#34;&gt;Registration&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!--- ### Autumn 2018 We are thinking about a Hackathon--&gt;
+
+&lt;h2 id=&#34;past-events&#34;&gt;Past events&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Date&lt;/th&gt;
+&lt;th&gt;Time&lt;/th&gt;
+&lt;th&gt;Topic&lt;/th&gt;
+&lt;th&gt;Type&lt;/th&gt;
+&lt;th&gt;Place&lt;/th&gt;
+&lt;th&gt;Slides&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1-Feb-2018&lt;/td&gt;
+&lt;td&gt;6 pm&lt;/td&gt;
+&lt;td&gt;Meet &amp;amp; Greet &amp;amp; 5min-talk (by Leonore Wigger from SIB)&lt;/td&gt;
+&lt;td&gt;Kickoff&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://goo.gl/maps/vpsdsAj4isT2&#34;&gt;@Anthropole&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/rladies/meetup-presentations_lausanne/blob/master/20180201_kickoff/2018-02-01-kickoff-presentation.pdf&#34;&gt;Intro to R-Ladies&lt;/a&gt; + &lt;a href=&#34;https://github.com/rladies/meetup-presentations_lausanne/blob/master/20180201_kickoff/2018-02-01-lightning_multipage_pdf_lw.pdf&#34;&gt;ggarrange&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;14-March-2018&lt;/td&gt;
+&lt;td&gt;6 pm&lt;/td&gt;
+&lt;td&gt;Shiny by &lt;a href=&#34;https://ki.se/en/people/elisda&#34;&gt;Elisabeth Dahlqwist&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Tutorial&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://goo.gl/maps/Fo8rctLTWgm&#34;&gt;UNIL-Genopode Auditorium A&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/rladies/meetup-presentations_lausanne/blob/master/20180314_shiny/shiny_presentation.pdf&#34;&gt;Presentation&lt;/a&gt; + &lt;a href=&#34;https://github.com/rladies/meetup-presentations_lausanne/blob/master/20180314_shiny/shiny_examples.zip&#34;&gt;Examples&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;13-April-2018&lt;/td&gt;
+&lt;td&gt;noon&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.meetup.com/rladies-lausanne/events/248694983/&#34;&gt;R and Bayesian Statistics&lt;/a&gt;  by &lt;a href=&#34;https://elizavetasemenova.github.io/blog/&#34;&gt;Elizaveta Semenova&lt;/a&gt; (TPH Basel)&lt;/td&gt;
+&lt;td&gt;Tutorial&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://goo.gl/maps/FgR9FPv33LA2&#34;&gt;Swisscom Digital Lab @ EPFL&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/rladies/meetup-presentations_lausanne/tree/master/20180413_bayesian/elizavetasemenova-bayesian-stan&#34;&gt;All material&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
     </item>
     
   </channel>
