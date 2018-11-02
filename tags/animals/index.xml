@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Animals on R-Ladies Lausanne</title>
+    <link>/tags/animals/</link>
+    <description>Recent content in Animals on R-Ladies Lausanne</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/animals/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Interview with Claudia Kasper</title>
+      <link>/post/2018/11/01/interview-claudia-kasper/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018/11/01/interview-claudia-kasper/</guid>
+      <description>I think what I appreciate the most about R, is, how much energy people put into developing packages.
+ Claudia Kasper  gave a presentation about Creating reproducible analyses and reports with R Markdown on October 17 2018, at our 5th meetup.
+](webpage) ...-------- 
+
+ Claudia speaking at the Meetup. 
+R-Ladies Lausanne: Can you tell us about the work that you do? Claudia Kasper: I am a research scientist working on animal genetics at Agroscope, the Swiss research centre for agricultural research.</description>
+    </item>
+    
+  </channel>
+</rss>

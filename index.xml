@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on R-Ladies Lausanne</title>
-    <link>/</link>
+    <link>https://rladieslausanne.github.io/</link>
     <description>Recent content in Home on R-Ladies Lausanne</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 03 Aug 2018 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rladieslausanne.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>News August 2018</title>
-      <link>/post/2018/08/03/news-august-2018/</link>
+      <link>https://rladieslausanne.github.io/post/2018/08/03/news-august-2018/</link>
       <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/2018/08/03/news-august-2018/</guid>
+      <guid>https://rladieslausanne.github.io/post/2018/08/03/news-august-2018/</guid>
       <description>
 
 &lt;p&gt;Since our &lt;a href=&#34;https://rladieslausanne.github.io/post/2018/05/10/news-may-2018/&#34;&gt;last newsletter in May&lt;/a&gt; a few things have happened:&lt;/p&gt;
@@ -59,10 +59,10 @@
     
     <item>
       <title>Interview with Elizaveta Semenova</title>
-      <link>/post/2018/07/31/interview-elizaveta-semenova/</link>
+      <link>https://rladieslausanne.github.io/post/2018/07/31/interview-elizaveta-semenova/</link>
       <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/2018/07/31/interview-elizaveta-semenova/</guid>
+      <guid>https://rladieslausanne.github.io/post/2018/07/31/interview-elizaveta-semenova/</guid>
       <description>
 
 &lt;blockquote&gt;
@@ -71,12 +71,11 @@
 
 &lt;p&gt;In past April, Elizaveta Semenova  &lt;a href=&#34;https://twitter.com/liza_p_semenova&#34;&gt;&lt;i class=&#34;fab fa-twitter&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;https://www.swisstph.ch/en/staff/profile/people/elizaveta-semenova/&#34;&gt;&lt;i class=&#34;far fa-address-card&#34;&gt;&lt;/i&gt;&lt;/a&gt; gave an introduction to Bayesian inference in R, using &lt;a href=&#34;http://mc-stan.org/&#34;&gt;Stan&lt;/a&gt; at our third meetup. In the meantime we had the chance to chat with her about her background and current work.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://htmlpreview.github.io/?https://github.com/rladies/meetup-presentations_lausanne/master/20180413_bayesian/elizavetasemenova-bayesian-stan/presentationHTML.html#/&#34; rel=&#34;noopener noreferrer&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;/files/img_slides.png&#34; alt=&#34;Slides&#34; height=&#34;70&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/rladies/meetup-presentations_lausanne/tree/master/20180413_bayesian/elizavetasemenova-bayesian-stan&#34;&gt;&lt;img src=&#34;/files/img_material.png&#34; alt=&#34;material&#34; height=&#34;70&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;c
+&lt;a href=&#34;https://github.com/rladies/meetup-presentations_lausanne/tree/master/20180413_bayesian/elizavetasemenova-bayesian-stan&#34;&gt;&lt;img src=&#34;https://rladieslausanne.github.io/files/img_material.png&#34; alt=&#34;material&#34; height=&#34;70&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;figure&gt;
-  &lt;img src=&#34;/files/2018-04-13-bayesian/Liza1.png&#34; alt=&#34;Elizaveta&#34; height=&#34;300&#34; /&gt;
+  &lt;img src=&#34;https://rladieslausanne.github.io/files/2018-04-13-bayesian/Liza1.png&#34; alt=&#34;Elizaveta&#34; height=&#34;300&#34; /&gt;
   &lt;figcaption&gt;&lt;em&gt;Elizaveta speaking at the &lt;a href=&#34;https://www.appliedmldays.com/workshop_sessions/machine-learning-for-news-theory-applications-and-visualisation-in-python.1&#34;&gt;AMLD 2018&lt;/a&gt;.&lt;/em&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;&lt;/p&gt;
 
@@ -140,10 +139,10 @@ To be more precise, I study malaria at elimination stage. Historically, there ha
     
     <item>
       <title>Interview with Leonore Wigger</title>
-      <link>/post/2018/07/07/presenter-1-leonore-wigger/</link>
+      <link>https://rladieslausanne.github.io/post/2018/07/07/presenter-1-leonore-wigger/</link>
       <pubDate>Sat, 07 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/2018/07/07/presenter-1-leonore-wigger/</guid>
+      <guid>https://rladieslausanne.github.io/post/2018/07/07/presenter-1-leonore-wigger/</guid>
       <description>
 
 &lt;blockquote&gt;
@@ -152,9 +151,9 @@ To be more precise, I study malaria at elimination stage. Historically, there ha
 
 &lt;p&gt;At our very &lt;strong&gt;first meetup&lt;/strong&gt;, &lt;strong&gt;Leonore Wigger&lt;/strong&gt; &lt;a href=&#34;https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=1113974&amp;amp;LanCode=37&#34;&gt;&lt;i class=&#34;far fa-address-card&#34;&gt;&lt;/i&gt;&lt;/a&gt; gave a short presentation on how to arrange multiple ggplot plots onto multipage PDFs.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://github.com/rladies/meetup-presentations_lausanne/raw/master/20180201_kickoff/2018-02-01-lightning_multipage_pdf_lw.pdf&#34;&gt;&lt;img src=&#34;/files/img_slides.png&#34; alt=&#34;Slides&#34; height=&#34;70&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/rladies/meetup-presentations_lausanne/raw/master/20180201_kickoff/2018-02-01-lightning_multipage_pdf_lw.pdf&#34;&gt;&lt;img src=&#34;https://rladieslausanne.github.io/files/img_slides.png&#34; alt=&#34;Slides&#34; height=&#34;70&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;/files/2018-02-01-kickoff/DSC02007 (1).png&#34; alt=&#34;-&#34; height=&#34;300&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://rladieslausanne.github.io/files/2018-02-01-kickoff/DSC02007 (1).png&#34; alt=&#34;-&#34; height=&#34;300&#34; /&gt;&lt;/p&gt;
 
 &lt;h4 id=&#34;r-ladies-lausanne-what-is-the-work-that-you-do&#34;&gt;R-Ladies Lausanne: What is the work that you do?&lt;/h4&gt;
 
@@ -220,10 +219,10 @@ To be more precise, I study malaria at elimination stage. Historically, there ha
     
     <item>
       <title>Interview with Elisabeth Dahlqwist</title>
-      <link>/post/2018/05/10/presenter-2-elisabeth-dahlqwist/</link>
+      <link>https://rladieslausanne.github.io/post/2018/05/10/presenter-2-elisabeth-dahlqwist/</link>
       <pubDate>Thu, 10 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/2018/05/10/presenter-2-elisabeth-dahlqwist/</guid>
+      <guid>https://rladieslausanne.github.io/post/2018/05/10/presenter-2-elisabeth-dahlqwist/</guid>
       <description>
 
 &lt;blockquote&gt;
@@ -232,11 +231,11 @@ To be more precise, I study malaria at elimination stage. Historically, there ha
 
 &lt;p&gt;&lt;strong&gt;Elisabeth Dahlqwist&lt;/strong&gt; &lt;a href=&#34;https://twitter.com/Elistif&#34;&gt;&lt;i class=&#34;fab fa-twitter&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;https://ki.se/en/people/elisda&#34;&gt;&lt;i class=&#34;far fa-address-card&#34;&gt;&lt;/i&gt;&lt;/a&gt; gave an introduction to &lt;strong&gt;Shiny&lt;/strong&gt; at our &lt;strong&gt;second&lt;/strong&gt; R-Ladies Lausanne meetup.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://github.com/rladies/meetup-presentations_lausanne/raw/master/20180314_shiny/shiny_presentation.pdf&#34;&gt;&lt;img src=&#34;/files/img_slides.png&#34; alt=&#34;Slides&#34; height=&#34;70&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/rladies/meetup-presentations_lausanne/raw/master/20180314_shiny/shiny_presentation.pdf&#34;&gt;&lt;img src=&#34;https://rladieslausanne.github.io/files/img_slides.png&#34; alt=&#34;Slides&#34; height=&#34;70&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://github.com/rladies/meetup-presentations_lausanne/raw/master/20180314_shiny/shiny_examples.zip&#34;&gt;&lt;img src=&#34;/files/img_material.png&#34; alt=&#34;Github Logo&#34; height=&#34;70&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/rladies/meetup-presentations_lausanne/raw/master/20180314_shiny/shiny_examples.zip&#34;&gt;&lt;img src=&#34;https://rladieslausanne.github.io/files/img_material.png&#34; alt=&#34;Github Logo&#34; height=&#34;70&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;/files/2018-03-14-shiny/DSC02080-small.png&#34; alt=&#34;-&#34; height=&#34;300&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://rladieslausanne.github.io/files/2018-03-14-shiny/DSC02080-small.png&#34; alt=&#34;-&#34; height=&#34;300&#34; /&gt;&lt;/p&gt;
 
 &lt;h4 id=&#34;sina-r-uuml-eger-what-is-the-work-that-you-do&#34;&gt;Sina R&amp;uuml;eger: What is the work that you do?&lt;/h4&gt;
 
@@ -253,7 +252,7 @@ using R before but I really didn&amp;rsquo;t feel like I was good enough to crea
 
 &lt;p&gt;&lt;u&gt;ED&lt;/u&gt;: I learned R when I wrote my Bachelor thesis in statistics. During the bachelor studies, we had not learned R. Instead we got to know all kinds of other software, like minitab and eviews, which we never used after the bachelor. But the girl I wrote the thesis with, used R and she said that we were going to use R, because we were going to implement a new method. And so we had to learn R by ourselves. I remember, it was really tricky and for me, having no programming background at all, it was very, very challenging. Later, when I started my masters in statistics we had an R course and it was still very tricky.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;/files/2018-03-14-shiny/DSC02081.png&#34; alt=&#34;-&#34; height=&#34;300&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://rladieslausanne.github.io/files/2018-03-14-shiny/DSC02081.png&#34; alt=&#34;-&#34; height=&#34;300&#34; /&gt;&lt;/p&gt;
 
 &lt;h4 id=&#34;sr-during-the-time-when-you-did-you-bachelor-thesis-what-were-the-resources-that-you-used-to-learn-r&#34;&gt;SR: During the time, when you did you bachelor thesis, what were the resources that you used to learn R?&lt;/h4&gt;
 
@@ -275,7 +274,7 @@ using R before but I really didn&amp;rsquo;t feel like I was good enough to crea
 
 &lt;p&gt;&lt;u&gt;ED&lt;/u&gt;: When I had done my first shiny app, I felt it was really amazing and I really wanted to share my experience of doing that, because it was quite easy. And the result is pretty cool. You can really make your R functions of the code available for everyone, not only those who use R. So using Shiny it is possible to drastically lowers the threshold for non-R users to get into R. And I think that&amp;rsquo;s really nice.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;/files/2018-03-14-shiny/DSC02087.png&#34; alt=&#34;-&#34; height=&#34;300&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://rladieslausanne.github.io/files/2018-03-14-shiny/DSC02087.png&#34; alt=&#34;-&#34; height=&#34;300&#34; /&gt;&lt;/p&gt;
 
 &lt;h4 id=&#34;sr-there-are-rumours-that-you-will-start-r-ladies-stockholm-together-with-some-other-folks-is-that-right&#34;&gt;SR: There are rumours that you will start R-Ladies Stockholm together with some other folks, is that right?&lt;/h4&gt;
 
@@ -293,10 +292,10 @@ using R before but I really didn&amp;rsquo;t feel like I was good enough to crea
     
     <item>
       <title>News May 2018</title>
-      <link>/post/2018/05/10/news-may-2018/</link>
+      <link>https://rladieslausanne.github.io/post/2018/05/10/news-may-2018/</link>
       <pubDate>Thu, 10 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/2018/05/10/news-may-2018/</guid>
+      <guid>https://rladieslausanne.github.io/post/2018/05/10/news-may-2018/</guid>
       <description>
 
 &lt;h2 id=&#34;meetup-4-on-june-7-impacthub&#34;&gt;Meetup #4 on June 7 @ ImpactHub&lt;/h2&gt;
@@ -321,7 +320,7 @@ using R before but I really didn&amp;rsquo;t feel like I was good enough to crea
 
 &lt;h2 id=&#34;contribute-to-our-webpage&#34;&gt;Contribute to our webpage&lt;/h2&gt;
 
-&lt;p&gt;The goal of this webpage is, to keep people informed about our meetups under &lt;a href=&#34;/categories/posts/&#34;&gt;news &amp;amp; blogposts&lt;/a&gt;, by posting  &lt;a href=&#34;/categories/news/&#34;&gt;&lt;strong&gt;news&lt;/strong&gt;&lt;/a&gt;, summaries from past &lt;a href=&#34;/categories/meetup/&#34;&gt;&lt;strong&gt;meetups&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;/categories/interview/&#34;&gt;&lt;strong&gt;interviews&lt;/strong&gt;&lt;/a&gt; of our &lt;a href=&#34;/community/#speakers&#34;&gt;speakers&lt;/a&gt;. &lt;!-- and by publishing contributed [**blogposts**](/categories/blogpost/).--&gt;&lt;/p&gt;
+&lt;p&gt;The goal of this webpage is, to keep people informed about our meetups under &lt;a href=&#34;https://rladieslausanne.github.io/categories/posts/&#34;&gt;news &amp;amp; blogposts&lt;/a&gt;, by posting  &lt;a href=&#34;https://rladieslausanne.github.io/categories/news/&#34;&gt;&lt;strong&gt;news&lt;/strong&gt;&lt;/a&gt;, summaries from past &lt;a href=&#34;https://rladieslausanne.github.io/categories/meetup/&#34;&gt;&lt;strong&gt;meetups&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://rladieslausanne.github.io/categories/interview/&#34;&gt;&lt;strong&gt;interviews&lt;/strong&gt;&lt;/a&gt; of our &lt;a href=&#34;https://rladieslausanne.github.io/community/#speakers&#34;&gt;speakers&lt;/a&gt;. &lt;!-- and by publishing contributed [**blogposts**](/categories/blogpost/).--&gt;&lt;/p&gt;
 
 &lt;p&gt;Would you like to contribute a &lt;em&gt;blogpost&lt;/em&gt;? Or do you make notes during meetups and would like to share them with everyone? Send us the markdown file via email at &lt;a href=&#34;mailto:lausanne@rladies.org&#34;&gt;lausanne@rladies.org&lt;/a&gt;.&lt;/p&gt;
 
@@ -351,13 +350,13 @@ using R before but I really didn&amp;rsquo;t feel like I was good enough to crea
     
     <item>
       <title>About R-Ladies &amp; R-Ladies Lausanne</title>
-      <link>/about/</link>
+      <link>https://rladieslausanne.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://rladieslausanne.github.io/about/</guid>
       <description>
 
-&lt;p&gt;&lt;a href=&#34;https://rladies.org/&#34;&gt;&lt;img src=&#34;/files/R-LadiesGlobal_RBG_online_LogoOnly.svg&#34; alt=&#34;R-Ladies Logo&#34; height=&#34;100&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://rladies.org/&#34;&gt;&lt;img src=&#34;https://rladieslausanne.github.io/files/R-LadiesGlobal_RBG_online_LogoOnly.svg&#34; alt=&#34;R-Ladies Logo&#34; height=&#34;100&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://rladies.org/&#34;&gt;R-Ladies&lt;/a&gt; is a world-wide organization to &lt;strong&gt;promote gender diversity&lt;/strong&gt; in the &lt;em&gt;R community&lt;/em&gt;.&lt;/p&gt;
 
@@ -395,7 +394,7 @@ using R before but I really didn&amp;rsquo;t feel like I was good enough to crea
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;figure&gt;
-  &lt;img src=&#34;/files/pics/DSC02009_annotated.png&#34; alt=&#34;Picture from our first meetup in February.&#34; height=&#34;300&#34; /&gt;
+  &lt;img src=&#34;https://rladieslausanne.github.io/files/pics/DSC02009_annotated.png&#34; alt=&#34;Picture from our first meetup in February.&#34; height=&#34;300&#34; /&gt;
   &lt;figcaption&gt;&lt;em&gt;All participants and organisers from our first meetup in February 2018.&lt;/em&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;&lt;/p&gt;
 
@@ -423,16 +422,16 @@ using R before but I really didn&amp;rsquo;t feel like I was good enough to crea
 
 &lt;h2 id=&#34;speakers&#34;&gt;Speakers&lt;/h2&gt;
 
-&lt;p&gt;R-Ladies lives through its participants. We &lt;strong&gt;always&lt;/strong&gt; need speakers for meetups! Please get in touch with us at &lt;a href=&#34;mailto:lausanne@rladies.org&#34;&gt;lausanne@rladies.org&lt;/a&gt;. Find more details to speaking &lt;a href=&#34;/community/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;R-Ladies lives through its participants. We &lt;strong&gt;always&lt;/strong&gt; need speakers for meetups! Please get in touch with us at &lt;a href=&#34;mailto:lausanne@rladies.org&#34;&gt;lausanne@rladies.org&lt;/a&gt;. Find more details to speaking &lt;a href=&#34;https://rladieslausanne.github.io/community/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Community</title>
-      <link>/community/</link>
+      <link>https://rladieslausanne.github.io/community/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/community/</guid>
+      <guid>https://rladieslausanne.github.io/community/</guid>
       <description>
 
 &lt;h2 id=&#34;come-to-our-meetups&#34;&gt;Come to our meetups&lt;/h2&gt;
@@ -463,7 +462,7 @@ using R before but I really didn&amp;rsquo;t feel like I was good enough to crea
 
 &lt;h2 id=&#34;contribute-to-our-webpage&#34;&gt;Contribute to our webpage&lt;/h2&gt;
 
-&lt;p&gt;The goal of this webpage is, to keep people informed about our meetups under &lt;a href=&#34;/categories/posts/&#34;&gt;news &amp;amp; blogposts&lt;/a&gt;, by posting  &lt;a href=&#34;/categories/news/&#34;&gt;&lt;strong&gt;news&lt;/strong&gt;&lt;/a&gt;, summaries from past &lt;a href=&#34;/categories/meetup/&#34;&gt;&lt;strong&gt;meetups&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;/categories/interview/&#34;&gt;&lt;strong&gt;interviews&lt;/strong&gt;&lt;/a&gt; of our &lt;a href=&#34;/community/#speakers&#34;&gt;speakers&lt;/a&gt; and list &lt;a href=&#34;/categories/blogpost/&#34;&gt;&lt;strong&gt;blogposts&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The goal of this webpage is, to keep people informed about our meetups under &lt;a href=&#34;https://rladieslausanne.github.io/categories/posts/&#34;&gt;news &amp;amp; blogposts&lt;/a&gt;, by posting  &lt;a href=&#34;https://rladieslausanne.github.io/categories/news/&#34;&gt;&lt;strong&gt;news&lt;/strong&gt;&lt;/a&gt;, summaries from past &lt;a href=&#34;https://rladieslausanne.github.io/categories/meetup/&#34;&gt;&lt;strong&gt;meetups&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://rladieslausanne.github.io/categories/interview/&#34;&gt;&lt;strong&gt;interviews&lt;/strong&gt;&lt;/a&gt; of our &lt;a href=&#34;https://rladieslausanne.github.io/community/#speakers&#34;&gt;speakers&lt;/a&gt; and list &lt;a href=&#34;https://rladieslausanne.github.io/categories/blogpost/&#34;&gt;&lt;strong&gt;blogposts&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Would you like to contribute a &lt;em&gt;blogpost&lt;/em&gt;? Or do you make notes during meetups and would like to share them with everyone? Send us the markdown file via email at &lt;a href=&#34;mailto:lausanne@rladies.org&#34;&gt;lausanne@rladies.org&lt;/a&gt;.&lt;/p&gt;
 
@@ -475,10 +474,10 @@ using R before but I really didn&amp;rsquo;t feel like I was good enough to crea
     
     <item>
       <title>Events</title>
-      <link>/events/</link>
+      <link>https://rladieslausanne.github.io/events/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/events/</guid>
+      <guid>https://rladieslausanne.github.io/events/</guid>
       <description>
 
 &lt;p&gt;We have a meetup roughly every second month.&lt;/p&gt;
