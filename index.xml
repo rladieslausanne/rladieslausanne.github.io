@@ -2,21 +2,104 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on R-Ladies Lausanne</title>
-    <link>https://rladieslausanne.github.io/</link>
+    <link>/</link>
     <description>Recent content in Home on R-Ladies Lausanne</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="https://rladieslausanne.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Interview with Claudia Kasper</title>
+      <link>/post/2018/11/01/interview-claudia-kasper/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018/11/01/interview-claudia-kasper/</guid>
+      <description>
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;I think what I appreciate the most about R, is, how much energy people put into developing packages.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Claudia Kasper &lt;a href=&#34;https://twitter.com/claudia_kasper&#34;&gt;&lt;i class=&#34;fab fa-twitter&#34;&gt;&lt;/i&gt;&lt;/a&gt; gave a presentation about &lt;strong&gt;Creating reproducible analyses and reports with R Markdown&lt;/strong&gt; on October 17 2018, at our 5th meetup.&lt;/p&gt;
+
+&lt;!----- [&lt;i class=&#34;far fa-address-card&#34;&gt;&lt;/i&gt;](webpage)  ...--------&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/rladies/meetup-presentations_lausanne/blob/master/20181017_rmarkdown/slides/R-Ladies-Lausanne.html.zip&#34; rel=&#34;noopener noreferrer&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;/files/img_slides.png&#34; alt=&#34;Slides&#34; height=&#34;70&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/rladies/meetup-presentations_lausanne/tree/master/20181017_rmarkdown/slides&#34;&gt;&lt;img src=&#34;/files/img_material.png&#34; alt=&#34;material&#34; height=&#34;70&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;
+  &lt;img src=&#34;/files/2018-10-17-rmarkdown/claudia-speaking.png&#34; alt=&#34;Claudia Kasper&#34; height=&#34;300&#34; /&gt;
+  &lt;figcaption&gt;&lt;em&gt;Claudia speaking at the Meetup.&lt;/em&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;r-ladies-lausanne-can-you-tell-us-about-the-work-that-you-do&#34;&gt;R-Ladies Lausanne: Can you tell us about the work that you do?&lt;/h4&gt;
+
+&lt;p&gt;&lt;u&gt;Claudia Kasper&lt;/u&gt;: I am a research scientist working on animal genetics at &lt;a href=&#34;https://www.agroscope.admin.ch/agroscope/en/home/about-us/agroscope.html&#34;&gt;Agroscope&lt;/a&gt;, the Swiss research centre for agricultural research. At the moment I am working on a project for sustainable pig breeding where I evaluate the genetic potential of favourable and desirable traits in the Swiss pig population. My project is mostly concerned with metabolic traits, for example the optimal intake of nutrients. The goal is to import less pig food from abroad, especially from countries in which sensitive ecosystems are compromised by the cultivation of feed crops, for instance the South American rain forests.&lt;/p&gt;
+
+&lt;h4 id=&#34;rll-what-do-you-use-r-for-at-work&#34;&gt;RLL: What do you use R for at work?&lt;/h4&gt;
+
+&lt;p&gt;&lt;u&gt;CK&lt;/u&gt;: I use R to do quantitative genetics models, mainly Bayesian mixed effect models. And I also use it a lot for data handling, data visualization, and to bring the data into a form in which I can use it.&lt;/p&gt;
+
+&lt;h4 id=&#34;rll-which-r-package-do-you-use-for-bayesian-statistics&#34;&gt;RLL: Which R-package do you use for Bayesian statistics?&lt;/h4&gt;
+
+&lt;p&gt;&lt;u&gt;CK&lt;/u&gt;: It is called &lt;a href=&#34;https://cran.r-project.org/web/packages/MCMCglmm/index.html&#34;&gt;{MCMCglmm}&lt;/a&gt; but I want to learn another one more &lt;a href=&#34;http://mc-stan.org/&#34;&gt;Stan&lt;/a&gt; based, called &lt;a href=&#34;https://cran.r-project.org/web/packages/brms/index.html&#34;&gt;{brms}&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&#34;rll-where-and-when-did-you-learn-r&#34;&gt;RLL: Where and when did you learn R?&lt;/h4&gt;
+
+&lt;p&gt;&lt;u&gt;CK&lt;/u&gt;: I remember exactly where I was. It was in early 2012 and I was working in Berlin as a research assistant at the &lt;a href=&#34;https://www.wiko-berlin.de/&#34;&gt;Wissenschaftskolleg&lt;/a&gt; in Berlin, which is a institute for advanced studies. At that time I was using Mathematica, but it is not free, difficult to get and it does not update that often. And because I needed a specific function, I needed to use R.
+In the beginning it was difficult to use R because it seemed so counterintuitive compared to Mathematica and importing data was really difficult.&lt;/p&gt;
+
+&lt;h4 id=&#34;rll-did-somebody-help-you-or-did-you-learn-it-all-by-yourself&#34;&gt;RLL: Did somebody help you or did you learn it all by yourself?&lt;/h4&gt;
+
+&lt;p&gt;&lt;u&gt;CK&lt;/u&gt;: I had some guidance from colleagues that were working in the US at the time and that sent me scripts. Later I did a three-day intensive R-course at the &lt;a href=&#34;https://www.fu-berlin.de/&#34;&gt;Freie Universität Berlin&lt;/a&gt; that was really great.&lt;/p&gt;
+
+&lt;h4 id=&#34;rll-you-have-used-mathematica-before-and-now-use-r-what-do-you-appreciate-most-about-r&#34;&gt;RLL: You have used Mathematica before and now use R. What do you appreciate most about R?&lt;/h4&gt;
+
+&lt;p&gt;&lt;u&gt;CK&lt;/u&gt;: I think what I appreciate the most is how much energy people put into developing packages. Plus R is up to date and very flexible. Sometimes you need a very specific function and there might be a small package that does exactly what you want.&lt;/p&gt;
+
+&lt;h4 id=&#34;rll-do-you-have-any-favourite-r-tools&#34;&gt;RLL: Do you have any favourite R tools?&lt;/h4&gt;
+
+&lt;p&gt;&lt;u&gt;CK&lt;/u&gt;: I use &lt;a href=&#34;https://cran.r-project.org/web/packages/ggplot2/index.html&#34;&gt;{ggplot2}&lt;/a&gt;, &lt;a href=&#34;https://cran.r-project.org/web/packages/MCMCglmm/index.html&#34;&gt;{MCMCglmm}&lt;/a&gt;, &lt;a href=&#34;https://cran.r-project.org/web/packages/lme4/index.html&#34;&gt;{lme4}&lt;/a&gt;, &lt;a href=&#34;https://cran.r-project.org/web/packages/pedantics/index.html&#34;&gt;{pedantics}&lt;/a&gt; to clean up pedigrees and of course &lt;a href=&#34;https://cran.r-project.org/web/packages/rmarkdown/index.html&#34;&gt;{rmarkdown}&lt;/a&gt;. And lots of small packages!&lt;/p&gt;
+
+&lt;h4 id=&#34;rll-do-you-have-clients-to-report-to&#34;&gt;RLL: Do you have clients to report to?&lt;/h4&gt;
+
+&lt;p&gt;&lt;u&gt;CK&lt;/u&gt;: No, not really. But I have co-workers that I do not want to show all output to. So I show them a condensed R markdown document.&lt;/p&gt;
+
+&lt;h4 id=&#34;rll-whom-do-you-ask-when-you-have-a-question&#34;&gt;RLL: Whom do you ask when you have a question?&lt;/h4&gt;
+
+&lt;p&gt;&lt;u&gt;CK&lt;/u&gt;: I use the internet and usually find my answers, since I do not have very peculiar questions. I never had to post anything on stack exchange.&lt;/p&gt;
+
+&lt;p&gt;When I started using R it was difficult to even ask a question - because I did not know the right keywords. With experience I learned to ask better questions. Sometimes, if you formulate a question well and lay out everything you know, you find the answer yourself!&lt;/p&gt;
+
+&lt;h4 id=&#34;rll-do-you-have-anything-that-you-want-to-learn-in-r&#34;&gt;RLL: Do you have anything that you want to learn in R?&lt;/h4&gt;
+
+&lt;p&gt;&lt;u&gt;CK&lt;/u&gt;: Yes, I want to learn &lt;a href=&#34;https://cran.r-project.org/web/packages/brms/index.html&#34;&gt;{brms}&lt;/a&gt; for Bayesian mixed models, and I would also like to learn &lt;a href=&#34;https://cran.r-project.org/web/packages/tidyr/index.html&#34;&gt;{tidyr}&lt;/a&gt;. I think I could save time there. And {shiny}, that would be nice too.&lt;/p&gt;
+
+&lt;h4 id=&#34;rll-what-motivated-you-to-give-a-talk&#34;&gt;RLL: What motivated you to give a talk?&lt;/h4&gt;
+
+&lt;p&gt;&lt;u&gt;CK&lt;/u&gt;: You contacted me :-) I read about &lt;a href=&#34;https://twitter.com/rladieslausanne?lang=de&#34;&gt;R-Ladies Lausanne&lt;/a&gt; and wanted to come to one of the talks anyway. In a way I do not feel proficient enough to contribute with a talk, so I would not have contacted you by myself.&lt;/p&gt;
+
+&lt;p&gt;But I like to teach R markdown and in fact, after I said yes, I decided to give the same presentation at Agroscope.&lt;/p&gt;
+
+&lt;h4 id=&#34;rll-do-you-have-any-free-advertisement-for-a-not-for-profit-organisation-or-resource&#34;&gt;RLL: Do you have any free advertisement for a not-for profit organisation or resource?&lt;/h4&gt;
+
+&lt;p&gt;A nice resource is called &lt;a href=&#34;https://500womenscientists.org/&#34;&gt;500 Women Scientists&lt;/a&gt;. They provide a database to search for female scientists.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Technical note:&lt;/strong&gt;
+&lt;em&gt;This interview was recorded by Sina on October 17 2018 and then transcribed. Some text was changed for clarification.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>News August 2018</title>
-      <link>https://rladieslausanne.github.io/post/2018/08/03/news-august-2018/</link>
+      <link>/post/2018/08/03/news-august-2018/</link>
       <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://rladieslausanne.github.io/post/2018/08/03/news-august-2018/</guid>
+      <guid>/post/2018/08/03/news-august-2018/</guid>
       <description>
 
 &lt;p&gt;Since our &lt;a href=&#34;https://rladieslausanne.github.io/post/2018/05/10/news-may-2018/&#34;&gt;last newsletter in May&lt;/a&gt; a few things have happened:&lt;/p&gt;
@@ -59,10 +142,10 @@
     
     <item>
       <title>Interview with Elizaveta Semenova</title>
-      <link>https://rladieslausanne.github.io/post/2018/07/31/interview-elizaveta-semenova/</link>
+      <link>/post/2018/07/31/interview-elizaveta-semenova/</link>
       <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://rladieslausanne.github.io/post/2018/07/31/interview-elizaveta-semenova/</guid>
+      <guid>/post/2018/07/31/interview-elizaveta-semenova/</guid>
       <description>
 
 &lt;blockquote&gt;
@@ -72,10 +155,10 @@
 &lt;p&gt;In past April, Elizaveta Semenova  &lt;a href=&#34;https://twitter.com/liza_p_semenova&#34;&gt;&lt;i class=&#34;fab fa-twitter&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;https://www.swisstph.ch/en/staff/profile/people/elizaveta-semenova/&#34;&gt;&lt;i class=&#34;far fa-address-card&#34;&gt;&lt;/i&gt;&lt;/a&gt; gave an introduction to Bayesian inference in R, using &lt;a href=&#34;http://mc-stan.org/&#34;&gt;Stan&lt;/a&gt; at our third meetup. In the meantime we had the chance to chat with her about her background and current work.&lt;/p&gt;
 
 &lt;p&gt;c
-&lt;a href=&#34;https://github.com/rladies/meetup-presentations_lausanne/tree/master/20180413_bayesian/elizavetasemenova-bayesian-stan&#34;&gt;&lt;img src=&#34;https://rladieslausanne.github.io/files/img_material.png&#34; alt=&#34;material&#34; height=&#34;70&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://github.com/rladies/meetup-presentations_lausanne/tree/master/20180413_bayesian/elizavetasemenova-bayesian-stan&#34;&gt;&lt;img src=&#34;/files/img_material.png&#34; alt=&#34;material&#34; height=&#34;70&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;figure&gt;
-  &lt;img src=&#34;https://rladieslausanne.github.io/files/2018-04-13-bayesian/Liza1.png&#34; alt=&#34;Elizaveta&#34; height=&#34;300&#34; /&gt;
+  &lt;img src=&#34;/files/2018-04-13-bayesian/Liza1.png&#34; alt=&#34;Elizaveta&#34; height=&#34;300&#34; /&gt;
   &lt;figcaption&gt;&lt;em&gt;Elizaveta speaking at the &lt;a href=&#34;https://www.appliedmldays.com/workshop_sessions/machine-learning-for-news-theory-applications-and-visualisation-in-python.1&#34;&gt;AMLD 2018&lt;/a&gt;.&lt;/em&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;&lt;/p&gt;
 
@@ -139,10 +222,10 @@ To be more precise, I study malaria at elimination stage. Historically, there ha
     
     <item>
       <title>Interview with Leonore Wigger</title>
-      <link>https://rladieslausanne.github.io/post/2018/07/07/presenter-1-leonore-wigger/</link>
+      <link>/post/2018/07/07/presenter-1-leonore-wigger/</link>
       <pubDate>Sat, 07 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://rladieslausanne.github.io/post/2018/07/07/presenter-1-leonore-wigger/</guid>
+      <guid>/post/2018/07/07/presenter-1-leonore-wigger/</guid>
       <description>
 
 &lt;blockquote&gt;
@@ -151,9 +234,9 @@ To be more precise, I study malaria at elimination stage. Historically, there ha
 
 &lt;p&gt;At our very &lt;strong&gt;first meetup&lt;/strong&gt;, &lt;strong&gt;Leonore Wigger&lt;/strong&gt; &lt;a href=&#34;https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=1113974&amp;amp;LanCode=37&#34;&gt;&lt;i class=&#34;far fa-address-card&#34;&gt;&lt;/i&gt;&lt;/a&gt; gave a short presentation on how to arrange multiple ggplot plots onto multipage PDFs.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://github.com/rladies/meetup-presentations_lausanne/raw/master/20180201_kickoff/2018-02-01-lightning_multipage_pdf_lw.pdf&#34;&gt;&lt;img src=&#34;https://rladieslausanne.github.io/files/img_slides.png&#34; alt=&#34;Slides&#34; height=&#34;70&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/rladies/meetup-presentations_lausanne/raw/master/20180201_kickoff/2018-02-01-lightning_multipage_pdf_lw.pdf&#34;&gt;&lt;img src=&#34;/files/img_slides.png&#34; alt=&#34;Slides&#34; height=&#34;70&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://rladieslausanne.github.io/files/2018-02-01-kickoff/DSC02007 (1).png&#34; alt=&#34;-&#34; height=&#34;300&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/files/2018-02-01-kickoff/DSC02007 (1).png&#34; alt=&#34;-&#34; height=&#34;300&#34; /&gt;&lt;/p&gt;
 
 &lt;h4 id=&#34;r-ladies-lausanne-what-is-the-work-that-you-do&#34;&gt;R-Ladies Lausanne: What is the work that you do?&lt;/h4&gt;
 
@@ -218,11 +301,96 @@ To be more precise, I study malaria at elimination stage. Historically, there ha
     </item>
     
     <item>
+      <title>Interview with Rosalie Burel</title>
+      <link>/post/2018/06/11/presenter-6-rosalie-bruel/</link>
+      <pubDate>Mon, 11 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018/06/11/presenter-6-rosalie-bruel/</guid>
+      <description>
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;I feel that learning to program in R provided me with a mindset that helps me understand today&amp;rsquo;s technology much better.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Rosalie Bruel &lt;a href=&#34;https://twitter.com/rosaliebruel&#34;&gt;&lt;i class=&#34;fab fa-twitter&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;https://github.com/rosalieb/&#34;&gt;&lt;i class=&#34;fab fa-github&#34;&gt;&lt;/i&gt;&lt;/a&gt; has a background in ecology research, where she just finished her PhD on lakes ecological response to climate change.&lt;/p&gt;
+
+&lt;p&gt;As one of our first supporters, she missed our lightening talk session in June as she will soon head to Vermont.&lt;/p&gt;
+
+&lt;p&gt;Luckily for us, she proposed to do a &lt;a href=&#34;https://twitter.com/rladieslausanne&#34;&gt;twitter thread&lt;/a&gt; instead on her work in environmental research. For French speakers: she has also did a ReCur week for &lt;a href=&#34;https://twitter.com/laBioauLabo/status/980716083685584896&#34;&gt;@laBioauLabo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;de&#34;&gt;&lt;p lang=&#34;fr&#34; dir=&#34;ltr&#34;&gt;Cette semaine j&amp;#39;anime le compte de &lt;a href=&#34;https://twitter.com/laBioauLabo?ref_src=twsrc%5Etfw&#34;&gt;@laBioauLabo&lt;/a&gt;. Abonnez-vous si vous souhaitez suivre mes tweets (en français) 👀. J&amp;#39;ajouterai tous les jours dans la thread de discussion les débuts de &amp;quot;thématiques&amp;quot;. &lt;a href=&#34;https://t.co/0oD1VpN5j3&#34;&gt;https://t.co/0oD1VpN5j3&lt;/a&gt;&lt;/p&gt;&amp;mdash; Rosalie Bruel (@RosalieBruel) &lt;a href=&#34;https://twitter.com/RosalieBruel/status/980906762651033600?ref_src=twsrc%5Etfw&#34;&gt;2. April 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;r-ladies-lausanne-what-is-the-work-that-you-do&#34;&gt;R-Ladies Lausanne: What is the work that you do?&lt;/h4&gt;
+
+&lt;p&gt;&lt;u&gt;Rosalie Bruel&lt;/u&gt;:
+I am an ecologist, &lt;em&gt;working on lakes responses to climate change&lt;/em&gt;. I just finished my PhD in Thonon, on Lake Geneva French shores. My objective was to quantify ecological changes due to climate change, and to understand whether eutrophication mediate this. Eutrophication is a natural process of water enrichment by nutrients (nitrate, phosphate), but changes in land-use and cities development accelerate the process worldwide, creating an important threat to freshwater and marine systems.&lt;/p&gt;
+
+&lt;h4 id=&#34;rll-what-do-you-use-r-for-at-work&#34;&gt;RLL: What do you use R for at work?&lt;/h4&gt;
+
+&lt;p&gt;&lt;u&gt;RB&lt;/u&gt;: I use R for all my data analyses and generation of figures.&lt;/p&gt;
+
+&lt;h4 id=&#34;rll-where-and-when-did-you-learn-r&#34;&gt;RLL: Where and when did you learn R?&lt;/h4&gt;
+
+&lt;p&gt;&lt;u&gt;RB&lt;/u&gt;: I’ve first learned to use R during my Master in Anglet, France. It’s only during my Master’s internships and the projects we had to carry out that I really managed to write my first R-scripts. The best way to learn R in my opinion is to have (1) a specific question and (2) a familiar dataset and then spend time on it.&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;
+   &lt;img src=&#34;/files/pics/rosalie-verbania-768x834.jpeg&#34; alt=&#34;Rosalie Bruel&#34; height=&#34;300&#34; /&gt;
+  &lt;figcaption&gt;&lt;em&gt;Rosalie Bruel sampling a sediment core.&lt;/em&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;rll-do-you-use-r-outside-work&#34;&gt;RLL: Do you use R outside work?&lt;/h4&gt;
+
+&lt;p&gt;&lt;u&gt;RB&lt;/u&gt;: No, not really. I used it once to show my dad that R was better than excel to extract some statistics from a run we did.
+However, I feel that learning to program in R provided me with a mindset that helps me understand today&amp;rsquo;s technology much better. For example, already knowing about if-else-conditions and how they are used in programming.
+R also provides a great philosophy for research in general, because using an open source software means less barriers for other users, easy possibility of sharing and reproducibility has helped me looking at other problems differently: if you’re stuck, ask your colleagues, and not necessarily in your field. Most of the questions in R have been answered at some point, so don’t hesitate to ask for help!&lt;/p&gt;
+
+&lt;h4 id=&#34;rll-what-are-your-favourite-r-tools&#34;&gt;RLL: What are your favourite R tools?&lt;/h4&gt;
+
+&lt;p&gt;&lt;u&gt;RB&lt;/u&gt;: R tools that I use very often and that give me a lot of flexibility are the iteration possibility (for-loops), subsetting of data according to some condition, and all the different functions around that. R is great for testing robustness of your results, as it allows you to resample from your data very easily. I use it a lot when I need to test whether a trend I observe on a specific period would also been observed for shorter periods, or if I had sampled differently.&lt;/p&gt;
+
+&lt;p&gt;I also love the fact that you can reproduce your analyses even months after writing it. With the way the reviewing process works for scientific papers, it is very helpful to have your workflow analysis archived somewhere when you have to re-do your analyses months after the first submission.&lt;/p&gt;
+
+&lt;p&gt;It also straightforward  to share your scripts and methods with everyone.&lt;/p&gt;
+
+&lt;h4 id=&#34;rll-what-resources-do-you-use-when-you-get-stuck&#34;&gt;RLL: What resources do you use when you get stuck?&lt;/h4&gt;
+
+&lt;p&gt;&lt;u&gt;RB&lt;/u&gt;: I always google first, and when I have the time to read help from several sources, I go to Stackoverflow.
+I do my research in English, but &lt;a href=&#34;https://statistique-et-logiciel-r.com&#34;&gt;here&lt;/a&gt; is a blog resource in French by another R-Ladies member, Claire Della Vedova.&lt;/p&gt;
+
+&lt;h4 id=&#34;rll-what-do-you-aspire-to-learn-in-r&#34;&gt;RLL: What do you aspire to learn in R?&lt;/h4&gt;
+
+&lt;p&gt;&lt;u&gt;RB&lt;/u&gt;: I want to learn how to use &lt;code&gt;purrr&lt;/code&gt; for iterations instead of loops. I started working on very large datasets and I’m wasting a lot of computation time by using ‘for’ loops.
+Also, I don’t know how to use &lt;code&gt;ggplot2&lt;/code&gt;, which is very frustrating as everyone loves it.&lt;/p&gt;
+
+&lt;h4 id=&#34;rll-what-motivated-you-to-give-a-talk-at-r-ladies-lausanne&#34;&gt;RLL: What motivated you to give a talk at R-Ladies Lausanne?&lt;/h4&gt;
+
+&lt;p&gt;&lt;u&gt;RB&lt;/u&gt;: I don’t have a high R level compared to other people, but at the same time, R is making so many easy-to-do routines that are not used by many people, which makes me wonder why not everyone is using it.&lt;/p&gt;
+
+&lt;p&gt;I always feel a bit ashamed to show my R scripts, because they are not optimal, but that doesn’t mean they do not provide me with an answer to my research question.&lt;/p&gt;
+
+&lt;p&gt;So I hope that by giving insight into the life of an average R-user I can remove some people complexes about starting to use R and motivate them to share their knowledge.&lt;/p&gt;
+
+&lt;h4 id=&#34;rll-do-you-have-any-free-advertisement-for-a-not-for-profit-organisation-or-resource&#34;&gt;RLL:   Do you have any free advertisement for a not-for profit organisation or resource?&lt;/h4&gt;
+
+&lt;p&gt;&lt;u&gt;RB&lt;/u&gt;: There is an &lt;a href=&#34;http://centre.mjc-annemasse.fr/evenement/2018-06-11/504-faites-de-la-science.html&#34;&gt;event around science&lt;/a&gt; in Annemasse (near Geneva on the French side) in June (11-18). You can also check out the &lt;a href=&#34;https://fablac.fr&#34;&gt;FabLac&lt;/a&gt; (a FabLab in Anthy-sur-Léman, France), that organizes some repair shops, and much more.&lt;/p&gt;
+
+&lt;h4 id=&#34;rll-thank-you-for-your-time-you-invested-into-this-interview-and-the-twitter-thread-all-the-best-for-start-in-vermont&#34;&gt;RLL: Thank you for your time you invested into this interview and the twitter thread &amp;amp; all the best for start in Vermont!&lt;/h4&gt;
+
+&lt;p&gt;&lt;u&gt;RB&lt;/u&gt;: Thank you for your implication (engagement?) and I wish R-Ladies Lausanne a long serie of successful and informative meetings!&lt;/p&gt;
+
+&lt;h4 id=&#34;technical-note&#34;&gt;Technical note:&lt;/h4&gt;
+
+&lt;p&gt;&lt;em&gt;Rosalie provided the answers to the questions in written form which were then adapted during an informal interview with Sina. Some text was changed for clarification.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Interview with Elisabeth Dahlqwist</title>
-      <link>https://rladieslausanne.github.io/post/2018/05/10/presenter-2-elisabeth-dahlqwist/</link>
+      <link>/post/2018/05/10/presenter-2-elisabeth-dahlqwist/</link>
       <pubDate>Thu, 10 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://rladieslausanne.github.io/post/2018/05/10/presenter-2-elisabeth-dahlqwist/</guid>
+      <guid>/post/2018/05/10/presenter-2-elisabeth-dahlqwist/</guid>
       <description>
 
 &lt;blockquote&gt;
@@ -231,11 +399,11 @@ To be more precise, I study malaria at elimination stage. Historically, there ha
 
 &lt;p&gt;&lt;strong&gt;Elisabeth Dahlqwist&lt;/strong&gt; &lt;a href=&#34;https://twitter.com/Elistif&#34;&gt;&lt;i class=&#34;fab fa-twitter&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&#34;https://ki.se/en/people/elisda&#34;&gt;&lt;i class=&#34;far fa-address-card&#34;&gt;&lt;/i&gt;&lt;/a&gt; gave an introduction to &lt;strong&gt;Shiny&lt;/strong&gt; at our &lt;strong&gt;second&lt;/strong&gt; R-Ladies Lausanne meetup.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://github.com/rladies/meetup-presentations_lausanne/raw/master/20180314_shiny/shiny_presentation.pdf&#34;&gt;&lt;img src=&#34;https://rladieslausanne.github.io/files/img_slides.png&#34; alt=&#34;Slides&#34; height=&#34;70&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/rladies/meetup-presentations_lausanne/raw/master/20180314_shiny/shiny_presentation.pdf&#34;&gt;&lt;img src=&#34;/files/img_slides.png&#34; alt=&#34;Slides&#34; height=&#34;70&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://github.com/rladies/meetup-presentations_lausanne/raw/master/20180314_shiny/shiny_examples.zip&#34;&gt;&lt;img src=&#34;https://rladieslausanne.github.io/files/img_material.png&#34; alt=&#34;Github Logo&#34; height=&#34;70&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/rladies/meetup-presentations_lausanne/raw/master/20180314_shiny/shiny_examples.zip&#34;&gt;&lt;img src=&#34;/files/img_material.png&#34; alt=&#34;Github Logo&#34; height=&#34;70&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://rladieslausanne.github.io/files/2018-03-14-shiny/DSC02080-small.png&#34; alt=&#34;-&#34; height=&#34;300&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/files/2018-03-14-shiny/DSC02080-small.png&#34; alt=&#34;-&#34; height=&#34;300&#34; /&gt;&lt;/p&gt;
 
 &lt;h4 id=&#34;sina-r-uuml-eger-what-is-the-work-that-you-do&#34;&gt;Sina R&amp;uuml;eger: What is the work that you do?&lt;/h4&gt;
 
@@ -252,7 +420,7 @@ using R before but I really didn&amp;rsquo;t feel like I was good enough to crea
 
 &lt;p&gt;&lt;u&gt;ED&lt;/u&gt;: I learned R when I wrote my Bachelor thesis in statistics. During the bachelor studies, we had not learned R. Instead we got to know all kinds of other software, like minitab and eviews, which we never used after the bachelor. But the girl I wrote the thesis with, used R and she said that we were going to use R, because we were going to implement a new method. And so we had to learn R by ourselves. I remember, it was really tricky and for me, having no programming background at all, it was very, very challenging. Later, when I started my masters in statistics we had an R course and it was still very tricky.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://rladieslausanne.github.io/files/2018-03-14-shiny/DSC02081.png&#34; alt=&#34;-&#34; height=&#34;300&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/files/2018-03-14-shiny/DSC02081.png&#34; alt=&#34;-&#34; height=&#34;300&#34; /&gt;&lt;/p&gt;
 
 &lt;h4 id=&#34;sr-during-the-time-when-you-did-you-bachelor-thesis-what-were-the-resources-that-you-used-to-learn-r&#34;&gt;SR: During the time, when you did you bachelor thesis, what were the resources that you used to learn R?&lt;/h4&gt;
 
@@ -274,7 +442,7 @@ using R before but I really didn&amp;rsquo;t feel like I was good enough to crea
 
 &lt;p&gt;&lt;u&gt;ED&lt;/u&gt;: When I had done my first shiny app, I felt it was really amazing and I really wanted to share my experience of doing that, because it was quite easy. And the result is pretty cool. You can really make your R functions of the code available for everyone, not only those who use R. So using Shiny it is possible to drastically lowers the threshold for non-R users to get into R. And I think that&amp;rsquo;s really nice.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://rladieslausanne.github.io/files/2018-03-14-shiny/DSC02087.png&#34; alt=&#34;-&#34; height=&#34;300&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/files/2018-03-14-shiny/DSC02087.png&#34; alt=&#34;-&#34; height=&#34;300&#34; /&gt;&lt;/p&gt;
 
 &lt;h4 id=&#34;sr-there-are-rumours-that-you-will-start-r-ladies-stockholm-together-with-some-other-folks-is-that-right&#34;&gt;SR: There are rumours that you will start R-Ladies Stockholm together with some other folks, is that right?&lt;/h4&gt;
 
@@ -292,10 +460,10 @@ using R before but I really didn&amp;rsquo;t feel like I was good enough to crea
     
     <item>
       <title>News May 2018</title>
-      <link>https://rladieslausanne.github.io/post/2018/05/10/news-may-2018/</link>
+      <link>/post/2018/05/10/news-may-2018/</link>
       <pubDate>Thu, 10 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://rladieslausanne.github.io/post/2018/05/10/news-may-2018/</guid>
+      <guid>/post/2018/05/10/news-may-2018/</guid>
       <description>
 
 &lt;h2 id=&#34;meetup-4-on-june-7-impacthub&#34;&gt;Meetup #4 on June 7 @ ImpactHub&lt;/h2&gt;
@@ -320,7 +488,7 @@ using R before but I really didn&amp;rsquo;t feel like I was good enough to crea
 
 &lt;h2 id=&#34;contribute-to-our-webpage&#34;&gt;Contribute to our webpage&lt;/h2&gt;
 
-&lt;p&gt;The goal of this webpage is, to keep people informed about our meetups under &lt;a href=&#34;https://rladieslausanne.github.io/categories/posts/&#34;&gt;news &amp;amp; blogposts&lt;/a&gt;, by posting  &lt;a href=&#34;https://rladieslausanne.github.io/categories/news/&#34;&gt;&lt;strong&gt;news&lt;/strong&gt;&lt;/a&gt;, summaries from past &lt;a href=&#34;https://rladieslausanne.github.io/categories/meetup/&#34;&gt;&lt;strong&gt;meetups&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://rladieslausanne.github.io/categories/interview/&#34;&gt;&lt;strong&gt;interviews&lt;/strong&gt;&lt;/a&gt; of our &lt;a href=&#34;https://rladieslausanne.github.io/community/#speakers&#34;&gt;speakers&lt;/a&gt;. &lt;!-- and by publishing contributed [**blogposts**](/categories/blogpost/).--&gt;&lt;/p&gt;
+&lt;p&gt;The goal of this webpage is, to keep people informed about our meetups under &lt;a href=&#34;/categories/posts/&#34;&gt;news &amp;amp; blogposts&lt;/a&gt;, by posting  &lt;a href=&#34;/categories/news/&#34;&gt;&lt;strong&gt;news&lt;/strong&gt;&lt;/a&gt;, summaries from past &lt;a href=&#34;/categories/meetup/&#34;&gt;&lt;strong&gt;meetups&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;/categories/interview/&#34;&gt;&lt;strong&gt;interviews&lt;/strong&gt;&lt;/a&gt; of our &lt;a href=&#34;/community/#speakers&#34;&gt;speakers&lt;/a&gt;. &lt;!-- and by publishing contributed [**blogposts**](/categories/blogpost/).--&gt;&lt;/p&gt;
 
 &lt;p&gt;Would you like to contribute a &lt;em&gt;blogpost&lt;/em&gt;? Or do you make notes during meetups and would like to share them with everyone? Send us the markdown file via email at &lt;a href=&#34;mailto:lausanne@rladies.org&#34;&gt;lausanne@rladies.org&lt;/a&gt;.&lt;/p&gt;
 
@@ -350,13 +518,13 @@ using R before but I really didn&amp;rsquo;t feel like I was good enough to crea
     
     <item>
       <title>About R-Ladies &amp; R-Ladies Lausanne</title>
-      <link>https://rladieslausanne.github.io/about/</link>
+      <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rladieslausanne.github.io/about/</guid>
+      <guid>/about/</guid>
       <description>
 
-&lt;p&gt;&lt;a href=&#34;https://rladies.org/&#34;&gt;&lt;img src=&#34;https://rladieslausanne.github.io/files/R-LadiesGlobal_RBG_online_LogoOnly.svg&#34; alt=&#34;R-Ladies Logo&#34; height=&#34;100&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://rladies.org/&#34;&gt;&lt;img src=&#34;/files/R-LadiesGlobal_RBG_online_LogoOnly.svg&#34; alt=&#34;R-Ladies Logo&#34; height=&#34;100&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://rladies.org/&#34;&gt;R-Ladies&lt;/a&gt; is a world-wide organization to &lt;strong&gt;promote gender diversity&lt;/strong&gt; in the &lt;em&gt;R community&lt;/em&gt;.&lt;/p&gt;
 
@@ -394,7 +562,7 @@ using R before but I really didn&amp;rsquo;t feel like I was good enough to crea
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;figure&gt;
-  &lt;img src=&#34;https://rladieslausanne.github.io/files/pics/DSC02009_annotated.png&#34; alt=&#34;Picture from our first meetup in February.&#34; height=&#34;300&#34; /&gt;
+  &lt;img src=&#34;/files/pics/DSC02009_annotated.png&#34; alt=&#34;Picture from our first meetup in February.&#34; height=&#34;300&#34; /&gt;
   &lt;figcaption&gt;&lt;em&gt;All participants and organisers from our first meetup in February 2018.&lt;/em&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;&lt;/p&gt;
 
@@ -422,16 +590,16 @@ using R before but I really didn&amp;rsquo;t feel like I was good enough to crea
 
 &lt;h2 id=&#34;speakers&#34;&gt;Speakers&lt;/h2&gt;
 
-&lt;p&gt;R-Ladies lives through its participants. We &lt;strong&gt;always&lt;/strong&gt; need speakers for meetups! Please get in touch with us at &lt;a href=&#34;mailto:lausanne@rladies.org&#34;&gt;lausanne@rladies.org&lt;/a&gt;. Find more details to speaking &lt;a href=&#34;https://rladieslausanne.github.io/community/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;R-Ladies lives through its participants. We &lt;strong&gt;always&lt;/strong&gt; need speakers for meetups! Please get in touch with us at &lt;a href=&#34;mailto:lausanne@rladies.org&#34;&gt;lausanne@rladies.org&lt;/a&gt;. Find more details to speaking &lt;a href=&#34;/community/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Community</title>
-      <link>https://rladieslausanne.github.io/community/</link>
+      <link>/community/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rladieslausanne.github.io/community/</guid>
+      <guid>/community/</guid>
       <description>
 
 &lt;h2 id=&#34;come-to-our-meetups&#34;&gt;Come to our meetups&lt;/h2&gt;
@@ -462,7 +630,7 @@ using R before but I really didn&amp;rsquo;t feel like I was good enough to crea
 
 &lt;h2 id=&#34;contribute-to-our-webpage&#34;&gt;Contribute to our webpage&lt;/h2&gt;
 
-&lt;p&gt;The goal of this webpage is, to keep people informed about our meetups under &lt;a href=&#34;https://rladieslausanne.github.io/categories/posts/&#34;&gt;news &amp;amp; blogposts&lt;/a&gt;, by posting  &lt;a href=&#34;https://rladieslausanne.github.io/categories/news/&#34;&gt;&lt;strong&gt;news&lt;/strong&gt;&lt;/a&gt;, summaries from past &lt;a href=&#34;https://rladieslausanne.github.io/categories/meetup/&#34;&gt;&lt;strong&gt;meetups&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://rladieslausanne.github.io/categories/interview/&#34;&gt;&lt;strong&gt;interviews&lt;/strong&gt;&lt;/a&gt; of our &lt;a href=&#34;https://rladieslausanne.github.io/community/#speakers&#34;&gt;speakers&lt;/a&gt; and list &lt;a href=&#34;https://rladieslausanne.github.io/categories/blogpost/&#34;&gt;&lt;strong&gt;blogposts&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The goal of this webpage is, to keep people informed about our meetups under &lt;a href=&#34;/categories/posts/&#34;&gt;news &amp;amp; blogposts&lt;/a&gt;, by posting  &lt;a href=&#34;/categories/news/&#34;&gt;&lt;strong&gt;news&lt;/strong&gt;&lt;/a&gt;, summaries from past &lt;a href=&#34;/categories/meetup/&#34;&gt;&lt;strong&gt;meetups&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;/categories/interview/&#34;&gt;&lt;strong&gt;interviews&lt;/strong&gt;&lt;/a&gt; of our &lt;a href=&#34;/community/#speakers&#34;&gt;speakers&lt;/a&gt; and list &lt;a href=&#34;/categories/blogpost/&#34;&gt;&lt;strong&gt;blogposts&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Would you like to contribute a &lt;em&gt;blogpost&lt;/em&gt;? Or do you make notes during meetups and would like to share them with everyone? Send us the markdown file via email at &lt;a href=&#34;mailto:lausanne@rladies.org&#34;&gt;lausanne@rladies.org&lt;/a&gt;.&lt;/p&gt;
 
@@ -474,10 +642,10 @@ using R before but I really didn&amp;rsquo;t feel like I was good enough to crea
     
     <item>
       <title>Events</title>
-      <link>https://rladieslausanne.github.io/events/</link>
+      <link>/events/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rladieslausanne.github.io/events/</guid>
+      <guid>/events/</guid>
       <description>
 
 &lt;p&gt;We have a meetup roughly every second month.&lt;/p&gt;
@@ -496,7 +664,7 @@ using R before but I really didn&amp;rsquo;t feel like I was good enough to crea
 
 &lt;h2 id=&#34;upcoming-events&#34;&gt;Upcoming Events&lt;/h2&gt;
 
-&lt;p&gt;Our next event is on &lt;strong&gt;17 October 2018&lt;/strong&gt;. Details &amp;amp; registration &lt;a href=&#34;https://www.meetup.com/rladies-lausanne/events/254756623/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Our next event is on &lt;strong&gt;December 10 2018&lt;/strong&gt;. Details &amp;amp; registration coming soon.&lt;/p&gt;
 
 &lt;!--- ### Autumn 2018 We are thinking about a Hackathon--&gt;
 
@@ -557,6 +725,15 @@ using R before but I really didn&amp;rsquo;t feel like I was good enough to crea
 &lt;td&gt;&lt;a href=&#34;https://www.meetup.com/rladies-lausanne/events/254756623/&#34;&gt;Creating reproducible analyses and reports with R Markdown&lt;/a&gt; by &lt;a href=&#34;https://twitter.com/claudia_kasper&#34;&gt;Claudia Kasper&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Tutorial&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://goo.gl/maps/FgR9FPv33LA2&#34;&gt;Swisscom Digital Lab @ EPFL&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/rladies/meetup-presentations_lausanne/tree/master/20181017_rmarkdown/slides&#34;&gt;All material&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;10-Dec-2018&lt;/td&gt;
+&lt;td&gt;noon&lt;/td&gt;
+&lt;td&gt;Mix of short presentations&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

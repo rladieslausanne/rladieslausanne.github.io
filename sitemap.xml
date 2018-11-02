@@ -3,127 +3,161 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://rladieslausanne.github.io/post/2018/08/03/news-august-2018/</loc>
+    <loc>/post/2018/11/01/interview-claudia-kasper/</loc>
+    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2018/08/03/news-august-2018/</loc>
     <lastmod>2018-08-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rladieslausanne.github.io/post/2018/07/31/interview-elizaveta-semenova/</loc>
+    <loc>/post/2018/07/31/interview-elizaveta-semenova/</loc>
     <lastmod>2018-07-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rladieslausanne.github.io/post/2018/07/07/presenter-1-leonore-wigger/</loc>
+    <loc>/post/2018/07/07/presenter-1-leonore-wigger/</loc>
     <lastmod>2018-07-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rladieslausanne.github.io/post/2018/05/10/presenter-2-elisabeth-dahlqwist/</loc>
+    <loc>/post/2018/06/11/presenter-6-rosalie-bruel/</loc>
+    <lastmod>2018-06-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2018/05/10/presenter-2-elisabeth-dahlqwist/</loc>
     <lastmod>2018-05-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rladieslausanne.github.io/post/2018/05/10/news-may-2018/</loc>
+    <loc>/post/2018/05/10/news-may-2018/</loc>
     <lastmod>2018-05-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rladieslausanne.github.io/about/</loc>
+    <loc>/about/</loc>
   </url>
   
   <url>
-    <loc>https://rladieslausanne.github.io/tags/bayesian/</loc>
-    <lastmod>2018-07-31T00:00:00+00:00</lastmod>
+    <loc>/tags/animals/</loc>
+    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://rladieslausanne.github.io/tags/bioinformatics/</loc>
-    <lastmod>2018-07-07T00:00:00+00:00</lastmod>
+    <loc>/tags/bayesian/</loc>
+    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://rladieslausanne.github.io/tags/biostatistics/</loc>
-    <lastmod>2018-07-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://rladieslausanne.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://rladieslausanne.github.io/tags/community/</loc>
-    <lastmod>2018-08-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://rladieslausanne.github.io/community/</loc>
-  </url>
-  
-  <url>
-    <loc>https://rladieslausanne.github.io/events/</loc>
-  </url>
-  
-  <url>
-    <loc>https://rladieslausanne.github.io/tags/ggplot2/</loc>
+    <loc>/tags/bioinformatics/</loc>
     <lastmod>2018-07-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://rladieslausanne.github.io/</loc>
-    <lastmod>2018-08-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rladieslausanne.github.io/tags/interview/</loc>
+    <loc>/tags/biostatistics/</loc>
     <lastmod>2018-07-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://rladieslausanne.github.io/categories/interview/</loc>
-    <lastmod>2018-07-31T00:00:00+00:00</lastmod>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://rladieslausanne.github.io/tags/news/</loc>
+    <loc>/tags/community/</loc>
     <lastmod>2018-08-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://rladieslausanne.github.io/categories/news/</loc>
+    <loc>/community/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/ecology/</loc>
+    <lastmod>2018-06-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/events/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/ggplot2/</loc>
+    <lastmod>2018-07-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/interview/</loc>
+    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/interview/</loc>
+    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/news/</loc>
     <lastmod>2018-08-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://rladieslausanne.github.io/post/</loc>
+    <loc>/categories/news/</loc>
     <lastmod>2018-08-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://rladieslausanne.github.io/tags/shiny/</loc>
+    <loc>/post/</loc>
+    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/rmarkdown/</loc>
+    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/shiny/</loc>
     <lastmod>2018-05-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://rladieslausanne.github.io/tags/stan/</loc>
+    <loc>/tags/stan/</loc>
     <lastmod>2018-07-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://rladieslausanne.github.io/tags/</loc>
-    <lastmod>2018-07-31T00:00:00+00:00</lastmod>
+    <loc>/tags/</loc>
+    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/twitter/</loc>
+    <lastmod>2018-06-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

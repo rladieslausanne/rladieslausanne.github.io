@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on R-Ladies Lausanne</title>
-    <link>https://rladieslausanne.github.io/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on R-Ladies Lausanne</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://rladieslausanne.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Interview</title>
-      <link>https://rladieslausanne.github.io/categories/interview/</link>
-      <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
+      <link>/categories/interview/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://rladieslausanne.github.io/categories/interview/</guid>
+      <guid>/categories/interview/</guid>
       <description></description>
     </item>
     
     <item>
       <title>News</title>
-      <link>https://rladieslausanne.github.io/categories/news/</link>
+      <link>/categories/news/</link>
       <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://rladieslausanne.github.io/categories/news/</guid>
+      <guid>/categories/news/</guid>
       <description></description>
     </item>
     
