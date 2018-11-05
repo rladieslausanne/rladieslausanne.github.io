@@ -38,10 +38,6 @@
   </url>
   
   <url>
-    <loc>https://rladieslausanne.github.io/about/</loc>
-  </url>
-  
-  <url>
     <loc>https://rladieslausanne.github.io/tags/animals/</loc>
     <lastmod>2018-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -95,25 +91,25 @@
   </url>
   
   <url>
-    <loc>https://rladieslausanne.github.io/tags/interview/</loc>
-    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://rladieslausanne.github.io/categories/interview/</loc>
     <lastmod>2018-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://rladieslausanne.github.io/tags/news/</loc>
-    <lastmod>2018-08-03T00:00:00+00:00</lastmod>
+    <loc>https://rladieslausanne.github.io/tags/interview/</loc>
+    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://rladieslausanne.github.io/categories/news/</loc>
+    <lastmod>2018-08-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rladieslausanne.github.io/tags/news/</loc>
     <lastmod>2018-08-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
