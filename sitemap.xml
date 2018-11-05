@@ -33,6 +33,11 @@
   </url>
   
   <url>
+    <loc>https://rladieslausanne.github.io/</loc>
+    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://rladieslausanne.github.io/about/</loc>
   </url>
   
@@ -115,12 +120,6 @@
   
   <url>
     <loc>https://rladieslausanne.github.io/post/</loc>
-    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://rladieslausanne.github.io/</loc>
     <lastmod>2018-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
