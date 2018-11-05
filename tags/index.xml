@@ -2,129 +2,111 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on R-Ladies Lausanne</title>
-    <link>/tags/</link>
+    <link>https://rladieslausanne.github.io/tags/</link>
     <description>Recent content in Tags on R-Ladies Lausanne</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rladieslausanne.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Animals</title>
-      <link>/tags/animals/</link>
+      <link>https://rladieslausanne.github.io/tags/animals/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/animals/</guid>
+      <guid>https://rladieslausanne.github.io/tags/animals/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian</title>
-      <link>/tags/bayesian/</link>
+      <link>https://rladieslausanne.github.io/tags/bayesian/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/bayesian/</guid>
+      <guid>https://rladieslausanne.github.io/tags/bayesian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bioinformatics</title>
-      <link>/tags/bioinformatics/</link>
+      <link>https://rladieslausanne.github.io/tags/bioinformatics/</link>
       <pubDate>Sat, 07 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/bioinformatics/</guid>
+      <guid>https://rladieslausanne.github.io/tags/bioinformatics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Biostatistics</title>
-      <link>/tags/biostatistics/</link>
+      <link>https://rladieslausanne.github.io/tags/biostatistics/</link>
       <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/biostatistics/</guid>
+      <guid>https://rladieslausanne.github.io/tags/biostatistics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Community</title>
-      <link>/tags/community/</link>
+      <link>https://rladieslausanne.github.io/tags/community/</link>
       <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/community/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ecology</title>
-      <link>/tags/ecology/</link>
-      <pubDate>Mon, 11 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/ecology/</guid>
+      <guid>https://rladieslausanne.github.io/tags/community/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ggplot2</title>
-      <link>/tags/ggplot2/</link>
+      <link>https://rladieslausanne.github.io/tags/ggplot2/</link>
       <pubDate>Sat, 07 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/ggplot2/</guid>
+      <guid>https://rladieslausanne.github.io/tags/ggplot2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Interview</title>
-      <link>/tags/interview/</link>
+      <link>https://rladieslausanne.github.io/tags/interview/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/interview/</guid>
+      <guid>https://rladieslausanne.github.io/tags/interview/</guid>
       <description></description>
     </item>
     
     <item>
       <title>News</title>
-      <link>/tags/news/</link>
+      <link>https://rladieslausanne.github.io/tags/news/</link>
       <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/news/</guid>
+      <guid>https://rladieslausanne.github.io/tags/news/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rmarkdown</title>
-      <link>/tags/rmarkdown/</link>
+      <link>https://rladieslausanne.github.io/tags/rmarkdown/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/rmarkdown/</guid>
+      <guid>https://rladieslausanne.github.io/tags/rmarkdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Shiny</title>
-      <link>/tags/shiny/</link>
+      <link>https://rladieslausanne.github.io/tags/shiny/</link>
       <pubDate>Thu, 10 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/shiny/</guid>
+      <guid>https://rladieslausanne.github.io/tags/shiny/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stan</title>
-      <link>/tags/stan/</link>
+      <link>https://rladieslausanne.github.io/tags/stan/</link>
       <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/stan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Twitter</title>
-      <link>/tags/twitter/</link>
-      <pubDate>Mon, 11 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/twitter/</guid>
+      <guid>https://rladieslausanne.github.io/tags/stan/</guid>
       <description></description>
     </item>
     
