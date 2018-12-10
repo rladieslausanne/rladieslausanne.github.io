@@ -6,13 +6,12 @@
     <description>Recent content in Tags on R-Ladies Lausanne</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://rladieslausanne.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Animals</title>
+      <title>animals</title>
       <link>https://rladieslausanne.github.io/tags/animals/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
       
@@ -21,7 +20,7 @@
     </item>
     
     <item>
-      <title>Bayesian</title>
+      <title>bayesian</title>
       <link>https://rladieslausanne.github.io/tags/bayesian/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
       
@@ -30,7 +29,7 @@
     </item>
     
     <item>
-      <title>Bioinformatics</title>
+      <title>bioinformatics</title>
       <link>https://rladieslausanne.github.io/tags/bioinformatics/</link>
       <pubDate>Sat, 07 Jul 2018 00:00:00 +0000</pubDate>
       
@@ -39,7 +38,7 @@
     </item>
     
     <item>
-      <title>Biostatistics</title>
+      <title>biostatistics</title>
       <link>https://rladieslausanne.github.io/tags/biostatistics/</link>
       <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
       
@@ -48,7 +47,7 @@
     </item>
     
     <item>
-      <title>Community</title>
+      <title>community</title>
       <link>https://rladieslausanne.github.io/tags/community/</link>
       <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
       
@@ -57,7 +56,7 @@
     </item>
     
     <item>
-      <title>Ggplot2</title>
+      <title>ggplot2</title>
       <link>https://rladieslausanne.github.io/tags/ggplot2/</link>
       <pubDate>Sat, 07 Jul 2018 00:00:00 +0000</pubDate>
       
@@ -66,7 +65,7 @@
     </item>
     
     <item>
-      <title>Interview</title>
+      <title>interview</title>
       <link>https://rladieslausanne.github.io/tags/interview/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
       
@@ -75,7 +74,7 @@
     </item>
     
     <item>
-      <title>News</title>
+      <title>news</title>
       <link>https://rladieslausanne.github.io/tags/news/</link>
       <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
       
@@ -84,7 +83,7 @@
     </item>
     
     <item>
-      <title>Rmarkdown</title>
+      <title>rmarkdown</title>
       <link>https://rladieslausanne.github.io/tags/rmarkdown/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
       
@@ -93,7 +92,7 @@
     </item>
     
     <item>
-      <title>Shiny</title>
+      <title>shiny</title>
       <link>https://rladieslausanne.github.io/tags/shiny/</link>
       <pubDate>Thu, 10 May 2018 00:00:00 +0000</pubDate>
       
@@ -102,7 +101,7 @@
     </item>
     
     <item>
-      <title>Stan</title>
+      <title>stan</title>
       <link>https://rladieslausanne.github.io/tags/stan/</link>
       <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
       

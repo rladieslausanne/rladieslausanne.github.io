@@ -38,6 +38,34 @@
   </url>
   
   <url>
+    <loc>https://rladieslausanne.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rladieslausanne.github.io/community/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rladieslausanne.github.io/events/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rladieslausanne.github.io/faq/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rladieslausanne.github.io/post/</loc>
+    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rladieslausanne.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://rladieslausanne.github.io/tags/animals/</loc>
     <lastmod>2018-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -62,37 +90,14 @@
   </url>
   
   <url>
-    <loc>https://rladieslausanne.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://rladieslausanne.github.io/tags/community/</loc>
     <lastmod>2018-08-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://rladieslausanne.github.io/community/</loc>
-  </url>
-  
-  <url>
-    <loc>https://rladieslausanne.github.io/events/</loc>
-  </url>
-  
-  <url>
-    <loc>https://rladieslausanne.github.io/faq/</loc>
-  </url>
-  
-  <url>
     <loc>https://rladieslausanne.github.io/tags/ggplot2/</loc>
     <lastmod>2018-07-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://rladieslausanne.github.io/tags/interview/</loc>
-    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -103,8 +108,8 @@
   </url>
   
   <url>
-    <loc>https://rladieslausanne.github.io/tags/news/</loc>
-    <lastmod>2018-08-03T00:00:00+00:00</lastmod>
+    <loc>https://rladieslausanne.github.io/tags/interview/</loc>
+    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -115,8 +120,8 @@
   </url>
   
   <url>
-    <loc>https://rladieslausanne.github.io/post/</loc>
-    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+    <loc>https://rladieslausanne.github.io/tags/news/</loc>
+    <lastmod>2018-08-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -135,12 +140,6 @@
   <url>
     <loc>https://rladieslausanne.github.io/tags/stan/</loc>
     <lastmod>2018-07-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://rladieslausanne.github.io/tags/</loc>
-    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
