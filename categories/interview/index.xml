@@ -6,21 +6,10 @@
     <description>Recent content in interview on R-Ladies Lausanne</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://rladieslausanne.github.io/categories/interview/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Interview with Liza Darrous</title>
-      <link>https://rladieslausanne.github.io/post/2018/12/10/presenter-4-liza-darrous/</link>
-      <pubDate>Mon, 10 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://rladieslausanne.github.io/post/2018/12/10/presenter-4-liza-darrous/</guid>
-      <description>I attended one of the first R-Ladies meetup and I liked the dynamics of the meeting.
- In June, Liza Darrous  gave a talk entitled &amp;ldquo;Talking in Circos - circular visualisation in R&amp;rdquo; and introduced us to the package Rcircos.
-R-Ladies Lausanne: What is the work that you do? Liza Darrous: I&amp;rsquo;m a master student, and I&amp;rsquo;m currently working with statistical biology and a bit of method development.</description>
-    </item>
     
     <item>
       <title>Interview with Claudia Kasper</title>
