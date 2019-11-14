@@ -580,7 +580,7 @@ using R before but I really didn&amp;rsquo;t feel like I was good enough to crea
 
 &lt;h2 id=&#34;upcoming-events&#34;&gt;Upcoming Events&lt;/h2&gt;
 
-&lt;p&gt;Our next event will be on &lt;strong&gt;December 3rd 2019&lt;/strong&gt; → see [meetup page]() for more informations.&lt;/p&gt;
+&lt;p&gt;Our next event will be on &lt;strong&gt;December 3rd 2019&lt;/strong&gt; → see &lt;a href=&#34;http://meetu.ps/c/3Flzf/vBnX0/f&#34;&gt;meetup page&lt;/a&gt; for more informations.&lt;/p&gt;
 
 &lt;!--- ### Autumn 2018 We are thinking about a Hackathon--&gt;
 
@@ -609,7 +609,7 @@ using R before but I really didn&amp;rsquo;t feel like I was good enough to crea
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;14-March-2018&lt;/td&gt;
+&lt;td&gt;14-Mar-2018&lt;/td&gt;
 &lt;td&gt;6 pm&lt;/td&gt;
 &lt;td&gt;Shiny by &lt;a href=&#34;https://ki.se/en/people/elisda&#34;&gt;Elisabeth Dahlqwist&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Tutorial&lt;/td&gt;
@@ -618,7 +618,7 @@ using R before but I really didn&amp;rsquo;t feel like I was good enough to crea
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;13-April-2018&lt;/td&gt;
+&lt;td&gt;13-Apr-2018&lt;/td&gt;
 &lt;td&gt;noon&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://www.meetup.com/rladies-lausanne/events/248694983/&#34;&gt;R and Bayesian Statistics&lt;/a&gt;  by &lt;a href=&#34;https://elizavetasemenova.github.io/blog/&#34;&gt;Elizaveta Semenova&lt;/a&gt; (TPH Basel)&lt;/td&gt;
 &lt;td&gt;Tutorial&lt;/td&gt;
@@ -627,7 +627,7 @@ using R before but I really didn&amp;rsquo;t feel like I was good enough to crea
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;7-June-2018&lt;/td&gt;
+&lt;td&gt;7-Jun-2018&lt;/td&gt;
 &lt;td&gt;6.30 pm&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://www.meetup.com/rladies-lausanne/events/250462129/&#34;&gt;ThundeR talks&lt;/a&gt; by Liza Darrous and Susan Kamal&lt;/td&gt;
 &lt;td&gt;Short talks on mixed topics&lt;/td&gt;
@@ -667,14 +667,14 @@ using R before but I really didn&amp;rsquo;t feel like I was good enough to crea
 &lt;td&gt;noon&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://www.meetup.com/rladies-lausanne/events/258120219/?isFirstPublish=true&#34;&gt;Collecting Twitter data with R&lt;/a&gt; by &lt;a href=&#34;http://citizensciences.net/elise-tancoigne/&#34;&gt;Elise Tancoigne&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Tutorial&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://plan.epfl.ch/?room==CM%201%20221&#34;&gt;Bugnon 27 Room 120 - Lipari&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://plan.epfl.ch/?room==CM%201%20221&#34;&gt;Bugnon 27 Lipari&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/rladies/meetup-presentations_lausanne/tree/master/20190417_twitter/material&#34;&gt;All material&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td&gt;16-May-2019&lt;/td&gt;
 &lt;td&gt;6.00 pm&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://www.meetup.com/fr-FR/rladies-lausanne/events/261037428/&#34;&gt;Statistical inference in the tidyverse framework: the Infer package.&lt;/a&gt; by [Elise Dupuis Lozeron]&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.meetup.com/fr-FR/rladies-lausanne/events/261037428/&#34;&gt;Statistical inference in the tidyverse framework: the Infer package.&lt;/a&gt; by Elise Dupuis Lozeron&lt;/td&gt;
 &lt;td&gt;Tutorial&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://plan.epfl.ch/?room==CM%201%20113&#34;&gt;EPFL CM 1 113&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/rladies/meetup-presentations_lausanne/tree/master/20190516_infer/material&#34;&gt;All material&lt;/a&gt;&lt;/td&gt;
@@ -684,9 +684,9 @@ using R before but I really didn&amp;rsquo;t feel like I was good enough to crea
 &lt;td&gt;2-Jul-2019&lt;/td&gt;
 &lt;td&gt;6.30 pm&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://www.meetup.com/fr-FR/rladies-lausanne/events/262507407/&#34;&gt;Thunder talks.&lt;/a&gt; by Liza Darrous, Jenny Sjaarda and Ninon Mounier&lt;/td&gt;
-&lt;td&gt;Short talks on mixed topics  &lt;a href=&#34;https://plan.epfl.ch/?room==SV%203510&#34;&gt;EPFL SV 35 10&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Short talks on mixed topics&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://plan.epfl.ch/?room==SV%203510&#34;&gt;EPFL SV 35 10&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/rladies/meetup-presentations_lausanne/tree/master/20190702_thundeR&#34;&gt;All material&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
